@@ -1,0 +1,56 @@
+METRICS TEST MAP
+1. How many Quake units for your narrowest path you want to use?
+
+64 Quake units wide is the narrowest path that will be reserved for gangways (open alleyway between buildings)
+and combined with ambush events to make these tight areas dangerous.
+---------------------------------------------------------
+2. How wide is the standard path?
+
+128 Quake units is the width of the standard path/hallway in a building, as large/open areas and
+sidewalks will have wider paths.
+-----------------------------------------------------------
+3. How wide are standard doorways?
+
+
+-----------------------------------------------------------
+4. What is the height and width of standard cover?
+
+
+-------------------------------------------------------
+5. How tall is a standard jump up?
+
+
+-----------------------------------------------------------
+6. How far is a standard jump forward (should feel natural and easy)
+
+
+-----------------------------------------------------------
+7. How far is a difficult jump forward (used sparingly or never)
+
+
+-----------------------------------------------------------
+8. How tall is your stair step height? The player should be able to run up it and it should look correct.
+
+
+-----------------------------------------------------------
+9. How steep of a walkable ramp do you want to use?
+
+
+-----------------------------------------------------------
+10. How tall are ceilings in a basic hallway / room?
+
+
+-----------------------------------------------------------
+11. How tall are ceilings in a confined hallway / small room?
+
+
+-----------------------------------------------------------
+12. How long is a short hallway / small room?
+
+
+-----------------------------------------------------------
+13. How long is a long hallway / big room?
+
+
+-----------------------------------------------------------
+ENEMY TEST METRICS
