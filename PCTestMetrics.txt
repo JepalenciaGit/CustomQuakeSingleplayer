@@ -1,56 +1,65 @@
 METRICS TEST MAP
+-------------------
 1. How many Quake units for your narrowest path you want to use?
 
 64 Quake units wide is the narrowest path that will be reserved for gangways (open alleyway between buildings)
 and combined with ambush events to make these tight areas dangerous.
----------------------------------------------------------
+----------------------------------------------------------------------------- 
 2. How wide is the standard path?
 
-128 Quake units is the width of the standard path/hallway in a building, as large/open areas and
-sidewalks will have wider paths.
------------------------------------------------------------
+128 Quake units is the width of the standard path/hallway in a building to allow player maneuverability and 
+flow, while large/open areas and sidewalks will have wider paths.
+------------------------------------------------------------------
 3. How wide are standard doorways?
 
-
+Standard/primary doorways are 64 units wide to give the player ample room to squeeze through and indicate
+the importance of the room. Therefore, secret/bonus doorways can be shrinked by 16 units into 48 units wide.
 -----------------------------------------------------------
 4. What is the height and width of standard cover?
 
-
+Width is subjective for standard cover and varies in the environment and combat situation. However, the ideal
+height for cover is 32 units tall, as this gives the player both protection from their lower torso down and
+lets them safely shoot bullets and projectiles (if hostiles are on/above the player's level).
 -------------------------------------------------------
 5. How tall is a standard jump up?
 
-
+The height of a standard jump ranges from the lowest of 24 units tall up to 42 units tall, both heights 
+allow the player a running start from ground level.
 -----------------------------------------------------------
 6. How far is a standard jump forward (should feel natural and easy)
 
-
+An easy, standard jumps is an average of 88 units far
 -----------------------------------------------------------
 7. How far is a difficult jump forward (used sparingly or never)
 
-
+The most difficult jump is 240 units far.
 -----------------------------------------------------------
 8. How tall is your stair step height? The player should be able to run up it and it should look correct.
 
-
+The maximized height of a star step is 16 QU tall, where using the steps should feel natural and flow correctly.
 -----------------------------------------------------------
 9. How steep of a walkable ramp do you want to use?
 
-
+The ideal angle of a ramp that minimizes sliding measures 15 degrees, while a 45 degree ramp is the steepest
+angle the player can use similar to the staircase on #8.
 -----------------------------------------------------------
 10. How tall are ceilings in a basic hallway / room?
 
-
+A basic room has an average ceiling height of 256 QU tall to accommodate for platforming gameplay and
+verticality.
 -----------------------------------------------------------
 11. How tall are ceilings in a confined hallway / small room?
 
-
+The average ceiling height for a confined hallway/corridor would be 128 QU tall. The small rooms connected
+remain the same height for consistency unless the room serves a larger purpose for story/gameplay
 -----------------------------------------------------------
 12. How long is a short hallway / small room?
 
-
+The longest a short hallway and room would be is ideally 384 QU long to keep the player moving to the next
+main area.
 -----------------------------------------------------------
 13. How long is a long hallway / big room?
 
-
+The longest I would make a hallway would be 512 QU long, as anything longer will feel too linear for the player.
 -----------------------------------------------------------
 ENEMY TEST METRICS
