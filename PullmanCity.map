@@ -6003,6 +6003,7 @@
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 ( -728 1776 528 ) ( -728 1777 528 ) ( -728 1776 529 ) hintskip [ 0 -1 0 16 ] [ 0 0 -1 0 ] 0 1 1
 ( -740 1744 528 ) ( -740 1744 529 ) ( -739 1744 528 ) hintskip [ 1 0 0 20 ] [ 0 0 -1 0 ] 0 1 1
@@ -6010,17 +6011,26 @@
 ( -708 1824 672 ) ( -708 1825 672 ) ( -707 1824 672 ) hintskip [ 1 0 0 20 ] [ 0 -1 0 -48 ] 0 1 1
 ( -708 1808 544 ) ( -707 1808 544 ) ( -708 1808 545 ) hintskip [ -1 0 0 -20 ] [ 0 0 -1 0 ] 0 1 1
 ( -724 1824 544 ) ( -724 1824 545 ) ( -724 1825 544 ) {gate_2 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
+=======
+( -736 1776 528 ) ( -736 1777 528 ) ( -736 1776 529 ) {gate_2 [ 0 -1 0 16 ] [ 0 0 -1 0 ] 0 1 1
+( -736 1744 528 ) ( -736 1744 529 ) ( -735 1744 528 ) {gate_2 [ 1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
+( -736 1776 528 ) ( -735 1776 528 ) ( -736 1777 528 ) {gate_2 [ -1 0 0 48 ] [ 0 -1 0 -48 ] 0 1 1
+( -704 1824 672 ) ( -704 1825 672 ) ( -703 1824 672 ) {gate_2 [ 1 0 0 -48 ] [ 0 -1 0 -48 ] 0 1 1
+( -704 1808 544 ) ( -703 1808 544 ) ( -704 1808 545 ) {gate_2 [ -1 0 0 48 ] [ 0 0 -1 0 ] 0 1 1
+( -720 1824 544 ) ( -720 1824 545 ) ( -720 1825 544 ) {gate_2 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 }
-// brush 663
+// brush 667
 {
 >>>>>>> parent of 59c1093 (Weird bug fixing)
 ( -736 1744 528 ) ( -736 1745 528 ) ( -736 1744 529 ) clip [ 0 -1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
 ( -736 1744 528 ) ( -736 1744 529 ) ( -735 1744 528 ) clip [ 1 0 0 48 ] [ 0 0 -1 0 ] 0 1 1
 ( -736 1744 528 ) ( -735 1744 528 ) ( -736 1745 528 ) clip [ -1 0 0 -48 ] [ 0 -1 0 -16 ] 0 1 1
-( -720 1808 1104 ) ( -720 1809 1104 ) ( -719 1808 1104 ) clip [ 1 0 0 48 ] [ 0 -1 0 -16 ] 0 1 1
+( -720 1808 816 ) ( -720 1809 816 ) ( -719 1808 816 ) clip [ 1 0 0 48 ] [ 0 -1 0 -16 ] 0 1 1
 ( -720 1808 544 ) ( -719 1808 544 ) ( -720 1808 545 ) clip [ -1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
 ( -720 1808 544 ) ( -720 1808 545 ) ( -720 1809 544 ) clip [ 0 1 0 16 ] [ 0 0 -1 0 ] 0 1 1
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 // brush 663
 =======
@@ -6045,6 +6055,9 @@
 =======
 // brush 664
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 668
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -1536 2576 528 ) ( -1536 2577 528 ) ( -1536 2576 529 ) clip [ 0 -1 0 48 ] [ 0 0 -1 0 ] 0 1 1
 ( -1536 2576 528 ) ( -1536 2576 529 ) ( -1535 2576 528 ) clip [ 1 0 0 16 ] [ 0 0 -1 0 ] 0 1 1
@@ -6055,6 +6068,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 664
 =======
 // brush 669
@@ -6062,6 +6076,9 @@
 =======
 // brush 665
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 669
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -1284 2096 592 ) ( -1284 2097 592 ) ( -1284 2096 593 ) {bars1 [ 0 4.371139006309477e-08 0.999999999999999 -8 ] [ 0 -0.999999999999999 4.371139006309477e-08 32 ] 270 1 1
 ( -1292 2096 592 ) ( -1292 2096 593 ) ( -1291 2096 592 ) {bars1 [ 1 0 0 -4 ] [ 0 0 -1 32 ] 0 1 1
@@ -6072,6 +6089,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 665
 =======
 // brush 670
@@ -6079,6 +6097,9 @@
 =======
 // brush 666
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 670
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -848 2192 528 ) ( -848 2193 528 ) ( -848 2192 529 ) 64_grey_4 [ 0 -1 0 48 ] [ 0 0 -1 0 ] 0 1 1
 ( -848 2112 528 ) ( -848 2112 529 ) ( -847 2112 528 ) 64_grey_4 [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
@@ -6089,6 +6110,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 666
 =======
 // brush 671
@@ -6096,6 +6118,9 @@
 =======
 // brush 667
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 671
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -960 1824 528 ) ( -960 1825 528 ) ( -960 1824 529 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -928 1824 528 ) ( -928 1824 529 ) ( -927 1824 528 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -6106,6 +6131,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 667
 =======
 // brush 672
@@ -6113,6 +6139,9 @@
 =======
 // brush 668
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 672
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -944 1824 544 ) ( -944 1825 544 ) ( -944 1824 545 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 16 ] 0 1 1
 ( -928 1824 544 ) ( -928 1824 545 ) ( -927 1824 544 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 16 ] 0 1 1
@@ -6123,6 +6152,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 668
 =======
 // brush 673
@@ -6130,6 +6160,9 @@
 =======
 // brush 669
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 673
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -928 1824 560 ) ( -928 1825 560 ) ( -928 1824 561 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 32 ] 0 1 1
 ( -928 1824 560 ) ( -928 1824 561 ) ( -927 1824 560 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 32 ] 0 1 1
@@ -6140,6 +6173,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 669
 =======
 // brush 674
@@ -6147,6 +6181,9 @@
 =======
 // brush 670
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 674
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -912 1824 576 ) ( -912 1825 576 ) ( -912 1824 577 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 48 ] 0 1 1
 ( -928 1824 576 ) ( -928 1824 577 ) ( -927 1824 576 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 48 ] 0 1 1
@@ -6157,6 +6194,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 670
 =======
 // brush 675
@@ -6164,6 +6202,9 @@
 =======
 // brush 671
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 675
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -896 1824 592 ) ( -896 1825 592 ) ( -896 1824 593 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -928 1824 592 ) ( -928 1824 593 ) ( -927 1824 592 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -6174,6 +6215,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 671
 =======
 // brush 676
@@ -6181,6 +6223,9 @@
 =======
 // brush 672
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 676
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -880 1824 608 ) ( -880 1825 608 ) ( -880 1824 609 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 16 ] 0 1 1
 ( -928 1824 608 ) ( -928 1824 609 ) ( -927 1824 608 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 16 ] 0 1 1
@@ -6191,6 +6236,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 672
 =======
 // brush 677
@@ -6198,6 +6244,9 @@
 =======
 // brush 673
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 677
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -864 1824 624 ) ( -864 1825 624 ) ( -864 1824 625 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 32 ] 0 1 1
 ( -928 1824 624 ) ( -928 1824 625 ) ( -927 1824 624 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 32 ] 0 1 1
@@ -6208,6 +6257,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 673
 =======
 // brush 678
@@ -6215,6 +6265,9 @@
 =======
 // brush 674
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 678
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -848 1824 640 ) ( -848 1825 640 ) ( -848 1824 641 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 48 ] 0 1 1
 ( -928 1824 640 ) ( -928 1824 641 ) ( -927 1824 640 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 48 ] 0 1 1
@@ -6225,6 +6278,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 674
 =======
 // brush 679
@@ -6232,6 +6286,9 @@
 =======
 // brush 675
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 679
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -832 1824 656 ) ( -832 1825 656 ) ( -832 1824 657 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -928 1824 656 ) ( -928 1824 657 ) ( -927 1824 656 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -6242,6 +6299,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 675
 =======
 // brush 680
@@ -6249,6 +6307,9 @@
 =======
 // brush 676
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// brush 680
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 ( -848 1920 528 ) ( -848 1921 528 ) ( -848 1920 529 ) 64_grey_4 [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
 ( -848 1888 528 ) ( -848 1888 529 ) ( -847 1888 528 ) 64_grey_4 [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
@@ -6257,6 +6318,7 @@
 ( -832 2000 544 ) ( -831 2000 544 ) ( -832 2000 545 ) 64_grey_4 [ -1 0 0 -32 ] [ 0 0 -1 0 ] 0 1 1
 ( -832 1952 544 ) ( -832 1952 545 ) ( -832 1953 544 ) 64_grey_4 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 676
@@ -13179,12 +13241,19 @@
 =======
 // brush 681
 {
+=======
+// brush 681
+{
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 ( -960 1888 656 ) ( -960 1889 656 ) ( -960 1888 657 ) 64_grey_4 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -848 1888 656 ) ( -848 1888 657 ) ( -847 1888 656 ) 64_grey_4 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -848 1888 656 ) ( -847 1888 656 ) ( -848 1889 656 ) 64_brown_3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( -832 1952 800 ) ( -832 1953 800 ) ( -831 1952 800 ) 64_grey_4 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
 ( -832 1952 672 ) ( -831 1952 672 ) ( -832 1952 673 ) 64_grey_4 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
 ( -832 1952 672 ) ( -832 1952 673 ) ( -832 1953 672 ) 64_grey_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+<<<<<<< HEAD
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
+=======
 >>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 }
 <<<<<<< HEAD
@@ -13208,7 +13277,7 @@
 // entity 1
 {
 "classname" "info_player_start"
-"origin" "-1836 2592 840"
+"origin" "-776 2412 552"
 "angle" "180"
 }
 // entity 2
@@ -13704,7 +13773,7 @@
 "spawnflags" "0"
 "angle" "180"
 "targetname" ""
-"target" "SecretArea"
+"target" "PSSecretDoor"
 "wait" "-1"
 // brush 0
 >>>>>>> parent of 59c1093 (Weird bug fixing)
@@ -13750,7 +13819,7 @@
 {
 "classname" "func_door_secret"
 "angle" "90"
-"targetname" "SecretArea"
+"targetname" "PSSecretDoor"
 "wait" "-1"
 "sounds" "3"
 // brush 0
@@ -13797,6 +13866,16 @@
 }
 // entity 35
 {
+"classname" "item_shells"
+"origin" "1440 464 80"
+}
+// entity 36
+{
+"classname" "item_shells"
+"origin" "1440 208 80"
+}
+// entity 37
+{
 "classname" "func_train"
 "target" "CarPath1"
 "sounds" "1"
@@ -13810,14 +13889,14 @@
 ( 1952 560 560 ) ( 1952 688 560 ) ( 1952 688 512 ) car_04 [ 0 1 0 -234.66812 ] [ 0 0 -1 -16 ] 0 0.74999875 1
 }
 }
-// entity 36
+// entity 38
 {
 "classname" "path_corner"
 "origin" "1944 560 520"
 "targetname" "CarPath1"
 "target" "CarPath2"
 }
-// entity 37
+// entity 39
 {
 "classname" "path_corner"
 "origin" "2576 568 520"
@@ -13825,36 +13904,36 @@
 "target" "CarPath3"
 "angle" "90"
 }
-// entity 38
+// entity 40
 {
 "classname" "trigger_secret"
 "message" "You have found a secret area!"
 // brush 0
 {
-( 3424 2376 592 ) ( 3424 2377 592 ) ( 3424 2376 593 ) trigger [ -6.123233995736766e-17 -1 0 24 ] [ 0 0 -1 48 ] 0 1 1
+( 3408 2376 592 ) ( 3408 2377 592 ) ( 3408 2376 593 ) trigger [ -6.123233995736766e-17 -1 0 24 ] [ 0 0 -1 48 ] 0 1 1
 ( 3552 2344 576 ) ( 3551 2344 576 ) ( 3552 2344 577 ) trigger [ 1 -6.123233995736766e-17 0 -32 ] [ 0 0 -1 48 ] 0 1 1
 ( 3552 2360 560 ) ( 3552 2361 560 ) ( 3551 2360 560 ) trigger [ -6.123233995736766e-17 -1 0 24 ] [ 1 -6.123233995736766e-17 0 -32 ] 90 1 1
 ( 3488 2376 656 ) ( 3487 2376 656 ) ( 3488 2377 656 ) trigger [ 6.123233995736766e-17 1 0 -24 ] [ 1 -6.123233995736766e-17 0 -32 ] 270 1 1
 ( 3488 2348 592 ) ( 3488 2348 593 ) ( 3487 2348 592 ) trigger [ -1 6.123233995736766e-17 0 32 ] [ 0 0 -1 48 ] 0 1 1
-( 3584 2360 576 ) ( 3584 2360 577 ) ( 3584 2361 576 ) trigger [ 6.123233995736766e-17 1 0 -24 ] [ 0 0 -1 48 ] 0 1 1
+( 3600 2360 576 ) ( 3600 2360 577 ) ( 3600 2361 576 ) trigger [ 6.123233995736766e-17 1 0 -24 ] [ 0 0 -1 48 ] 0 1 1
 }
 }
-// entity 39
+// entity 41
 {
 "classname" "item_health"
 "origin" "3488 2384 576"
 }
-// entity 40
+// entity 42
 {
 "classname" "item_shells"
 "origin" "3440 2384 576"
 }
-// entity 41
+// entity 43
 {
 "classname" "item_shells"
 "origin" "3536 2384 576"
 }
-// entity 42
+// entity 44
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -13897,7 +13976,7 @@
 ( 2896 304 528 ) ( 2896 304 529 ) ( 2896 305 528 ) railbutt3 [ 0 1 0 0 ] [ 0 0 -1 -16 ] 0 1 1
 }
 }
-// entity 43
+// entity 45
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -14232,7 +14311,7 @@
 ( 688 1776 432 ) ( 688 1775 432 ) ( 688 1776 433 ) 64_grey_1 [ 1.2246467991473532e-16 1 0 -48 ] [ 0 0 -1 32 ] 0 1 1
 }
 }
-// entity 44
+// entity 46
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -14355,8 +14434,12 @@
 // entity 35
 =======
 }
+<<<<<<< HEAD
 // entity 45
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 47
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -14525,8 +14608,12 @@
 // entity 42
 =======
 }
+<<<<<<< HEAD
 // entity 46
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 48
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -14911,7 +14998,7 @@
 >>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 =======
 }
-// entity 47
+// entity 49
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -15065,7 +15152,7 @@
 =======
 >>>>>>> parent of 59c1093 (Weird bug fixing)
 }
-// entity 48
+// entity 50
 {
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -15097,12 +15184,13 @@
 >>>>>>> parent of 59c1093 (Weird bug fixing)
 }
 }
-// entity 49
+// entity 51
 {
 "classname" "item_armor1"
 "origin" "592 2944 616"
 "angle" "90"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 25
@@ -15112,10 +15200,14 @@
 =======
 // entity 50
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 52
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "item_health"
 "origin" "1904 2816 528"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 26
@@ -15125,12 +15217,16 @@
 =======
 // entity 51
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 53
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_fish"
 "origin" "1792 2960 376"
 "spawnflags" "1"
 "angle" "270"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 27
@@ -15140,12 +15236,16 @@
 =======
 // entity 52
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 54
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_fish"
 "origin" "1712 3008 456"
 "spawnflags" "1"
 "angle" "270"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 28
@@ -15155,12 +15255,16 @@
 =======
 // entity 53
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 55
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_fish"
 "origin" "1648 2912 392"
 "spawnflags" "1"
 "angle" "270"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 29
@@ -15170,12 +15274,16 @@
 =======
 // entity 54
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 56
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_fish"
 "origin" "2144 2640 456"
 "spawnflags" "1"
 "angle" "180"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 30
@@ -15185,12 +15293,16 @@
 =======
 // entity 55
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 57
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_fish"
 "origin" "2176 2608 376"
 "spawnflags" "1"
 "angle" "180"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 31
@@ -15200,12 +15312,16 @@
 =======
 // entity 56
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 58
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_dog"
 "origin" "1664 1696 552"
 "target" ""
 "targetname" "CPGateAmbush"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 32
@@ -15215,12 +15331,16 @@
 =======
 // entity 57
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 59
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_dog"
 "origin" "1568 1648 552"
 "target" ""
 "targetname" "CPGateAmbush"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 }
@@ -15230,6 +15350,9 @@
 >>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 =======
 // entity 58
+=======
+// entity 60
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_dog"
 "origin" "512 1968 456"
@@ -15237,15 +15360,19 @@
 "spawnflags" "1"
 "targetname" "CPSkateAmbush"
 }
+<<<<<<< HEAD
 // entity 59
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 61
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "item_shells"
 "origin" "528 1744 432"
 "target" "CPSkateAmbush"
 "spawnflags" "1"
 }
-// entity 60
+// entity 62
 {
 "classname" "monster_dog"
 "origin" "576 1968 456"
@@ -15253,7 +15380,7 @@
 "spawnflags" "1"
 "targetname" "CPSkateAmbush"
 }
-// entity 61
+// entity 63
 {
 "classname" "monster_dog"
 "origin" "1972 1768 552"
@@ -15263,6 +15390,7 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 // brush 2
 =======
 // entity 101
@@ -15270,6 +15398,9 @@
 =======
 // entity 62
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 64
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_dog"
 "origin" "2192 1584 552"
@@ -15277,13 +15408,13 @@
 "target" ""
 "targetname" "CPGateAmbush"
 }
-// entity 63
+// entity 65
 {
 "classname" "item_shells"
 "origin" "2016 2816 272"
 "spawnflags" "0"
 }
-// entity 64
+// entity 66
 {
 <<<<<<< HEAD
 ( 656 2384 556 ) ( 624 2256 544 ) ( 624 2384 544 ) 64_grey_1 [ 1.0000000000000002 0 0 16 ] [ 0 1.0000000000000002 0 37.823242 ] 0 1 1
@@ -15318,16 +15449,17 @@
 "spawnflags" "0"
 >>>>>>> parent of 59c1093 (Weird bug fixing)
 }
-// entity 65
+// entity 67
 {
 "classname" "item_health"
 "origin" "1968 2888 272"
 }
-// entity 66
+// entity 68
 {
 "classname" "item_health"
 "origin" "3248 2336 704"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // entity 45
@@ -15337,6 +15469,9 @@
 =======
 // entity 67
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 69
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "func_group"
 "_tb_type" "_tb_group"
@@ -15386,14 +15521,19 @@
 >>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 =======
 }
+<<<<<<< HEAD
 // entity 68
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 70
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "monster_enforcer"
 "origin" "-992 2528 552"
 "angle" "270"
 "targetname" "WGAmbush1"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 3
@@ -15403,12 +15543,15 @@
 =======
 // entity 69
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 71
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "weapon_nailgun"
-"origin" "-1072 2032 528"
+"origin" "-1328 1984 528"
 "angle" "270"
-"target" "WGSeqNailgun"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 4
@@ -15418,10 +15561,14 @@
 =======
 // entity 70
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 72
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "item_shells"
 "origin" "-1136 2432 544"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 5
@@ -15431,11 +15578,14 @@
 =======
 // entity 71
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 73
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "item_spikes"
-"origin" "-1376 2432 544"
-"spawnflags" "1"
+"origin" "-1376 2464 544"
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 // brush 6
@@ -15445,6 +15595,9 @@
 =======
 // entity 72
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 74
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "path_corner"
 "origin" "2952 936 520"
@@ -15454,8 +15607,12 @@
 }
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 // entity 73
+=======
+// entity 75
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "path_corner"
 "origin" "2952 1352 520"
@@ -15464,7 +15621,7 @@
 "angle" "180"
 >>>>>>> parent of 59c1093 (Weird bug fixing)
 }
-// entity 74
+// entity 76
 {
 <<<<<<< HEAD
 "classname" "func_group"
@@ -15527,7 +15684,7 @@
 // brush 4
 =======
 }
-// entity 75
+// entity 77
 {
 "classname" "func_door"
 "sounds" "4"
@@ -15543,6 +15700,7 @@
 ( 1872 1184 560 ) ( 1872 1184 561 ) ( 1872 1185 560 ) {fence1 [ 0 1 0 0 ] [ 0 0 -1 16 ] 0 1 1
 }
 }
+<<<<<<< HEAD
 <<<<<<< HEAD
 // brush 6
 =======
@@ -15564,6 +15722,9 @@
 =======
 // entity 76
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 78
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "func_door"
 "sounds" "4"
@@ -15599,8 +15760,12 @@
 >>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 =======
 }
+<<<<<<< HEAD
 // entity 77
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 79
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "func_door"
 "angle" "270"
@@ -15624,13 +15789,16 @@
 >>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 =======
 }
+<<<<<<< HEAD
 // entity 78
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 80
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "func_door"
 "sounds" "4"
 "target" "CPGateAmbush"
-"angle" "180"
 // brush 0
 {
 ( 1248 3248 560 ) ( 1248 3248 561 ) ( 1248 3247 560 ) {fence1 [ -1.2246467991473532e-16 -1 0 16 ] [ 0 0 -1 16 ] 0 1 1
@@ -15648,11 +15816,15 @@
 >>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 =======
 }
+<<<<<<< HEAD
 // entity 79
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 81
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "func_door"
-"angle" "0"
+"angle" "180"
 "wait" "3"
 "sounds" "4"
 "target" "CPGateAmbush"
@@ -15670,8 +15842,12 @@
 // brush 12
 =======
 }
+<<<<<<< HEAD
 // entity 80
 >>>>>>> parent of 59c1093 (Weird bug fixing)
+=======
+// entity 82
+>>>>>>> parent of 04a73ee (Creating Saint Matthew Cathedral)
 {
 "classname" "func_door"
 "sounds" "4"
@@ -15687,7 +15863,7 @@
 ( 160 2336 560 ) ( 160 2335 560 ) ( 160 2336 561 ) {fence1 [ 1.8369701987210297e-16 1 0 -32 ] [ 0 0 -1 16 ] 0 1 1
 }
 }
-// entity 81
+// entity 83
 {
 "classname" "func_door"
 "angle" "90"
@@ -15704,7 +15880,7 @@
 ( 160 2416 560 ) ( 160 2415 560 ) ( 160 2416 561 ) {fence1 [ 1.8369701987210297e-16 1 0 16 ] [ 0 0 -1 16 ] 0 1 1
 }
 }
-// entity 82
+// entity 84
 {
 "classname" "trigger_counter"
 "origin" "-856 2216 616"
@@ -15712,7 +15888,7 @@
 "count" "5"
 "target" "WGSequenceDone"
 }
-// entity 83
+// entity 85
 {
 "classname" "func_button"
 "target" "WGSequence"
@@ -15730,7 +15906,7 @@
 ( -876 2208 608 ) ( -876 2208 609 ) ( -876 2209 608 ) wl_target1 [ 0 1 0 -32 ] [ 0 0 -1 -16 ] 0 0.5 0.5
 }
 }
-// entity 84
+// entity 86
 {
 "classname" "func_door"
 "targetname" "WGSequenceDone"
@@ -15739,15 +15915,15 @@
 "wait" "-1"
 // brush 0
 {
-( -1284 2192 528 ) ( -1284 2193 528 ) ( -1284 2192 529 ) 64_brown_3 [ 0 -1 0 16 ] [ 0 0 -1 0 ] 0 1 1
-( -1292 2160 528 ) ( -1292 2160 529 ) ( -1291 2160 528 ) 64_brown_3 [ 1 0 0 -4 ] [ 0 0 -1 0 ] 0 1 1
-( -1292 2192 528 ) ( -1291 2192 528 ) ( -1292 2193 528 ) 64_brown_3 [ -1 0 0 4 ] [ 0 -1 0 16 ] 0 1 1
-( -1276 2224 624 ) ( -1276 2225 624 ) ( -1275 2224 624 ) 64_brown_3 [ 1 0 0 -4 ] [ 0 -1 0 16 ] 0 1 1
-( -1276 2224 544 ) ( -1275 2224 544 ) ( -1276 2224 545 ) 64_brown_3 [ -1 0 0 4 ] [ 0 0 -1 0 ] 0 1 1
-( -1276 2224 544 ) ( -1276 2224 545 ) ( -1276 2225 544 ) 64_brown_3 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
+( -1288 2192 528 ) ( -1288 2193 528 ) ( -1288 2192 529 ) 64_brown_3 [ 0 -1 0 16 ] [ 0 0 -1 0 ] 0 1 1
+( -1288 2160 528 ) ( -1288 2160 529 ) ( -1287 2160 528 ) 64_brown_3 [ 1 0 0 56 ] [ 0 0 -1 0 ] 0 1 1
+( -1288 2192 528 ) ( -1287 2192 528 ) ( -1288 2193 528 ) 64_brown_3 [ -1 0 0 -56 ] [ 0 -1 0 16 ] 0 1 1
+( -1272 2224 624 ) ( -1272 2225 624 ) ( -1271 2224 624 ) 64_brown_3 [ 1 0 0 56 ] [ 0 -1 0 16 ] 0 1 1
+( -1272 2224 544 ) ( -1271 2224 544 ) ( -1272 2224 545 ) 64_brown_3 [ -1 0 0 -56 ] [ 0 0 -1 0 ] 0 1 1
+( -1272 2224 544 ) ( -1272 2224 545 ) ( -1272 2225 544 ) 64_brown_3 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 85
+// entity 87
 {
 "classname" "func_button"
 "target" "WGSequence"
@@ -15763,7 +15939,7 @@
 ( -956 2160 608 ) ( -956 2160 609 ) ( -956 2161 608 ) wl_target1 [ 0 1 0 0 ] [ 0 0 -1 48 ] 0 0.5 0.5
 }
 }
-// entity 86
+// entity 88
 {
 "classname" "func_button"
 "target" "WGSequence"
@@ -15779,7 +15955,7 @@
 ( -940 2000 608 ) ( -940 2000 609 ) ( -940 2001 608 ) wl_target1 [ 0 1 0 0 ] [ 0 0 -1 48 ] 0 0.5 0.5
 }
 }
-// entity 87
+// entity 89
 {
 "classname" "func_button"
 "target" "WGSequence"
@@ -15795,7 +15971,7 @@
 ( -860 1952 608 ) ( -860 1952 609 ) ( -860 1953 608 ) wl_target1 [ 0 1 0 32 ] [ 0 0 -1 48 ] 0 0.5 0.5
 }
 }
-// entity 88
+// entity 90
 {
 "classname" "func_button"
 "target" "WGSequence"
@@ -15811,22 +15987,22 @@
 ( -1036 2080 608 ) ( -1036 2080 609 ) ( -1036 2081 608 ) wl_target1 [ 0 1 0 32 ] [ 0 0 -1 -16 ] 0 0.5 0.5
 }
 }
-// entity 89
+// entity 91
 {
 "classname" "func_door"
 "angle" "270"
 "sounds" "4"
 // brush 0
 {
-( -724 2608 528 ) ( -724 2609 528 ) ( -724 2608 529 ) {gate_2 [ 0 -1 0 16 ] [ 0 0 -1 0 ] 0 1 1
-( -752 2576 528 ) ( -752 2576 529 ) ( -751 2576 528 ) hintskip [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
-( -752 2608 528 ) ( -751 2608 528 ) ( -752 2609 528 ) hintskip [ -1 0 0 -32 ] [ 0 -1 0 16 ] 0 1 1
-( -720 2656 640 ) ( -720 2657 640 ) ( -719 2656 640 ) hintskip [ 1 0 0 32 ] [ 0 -1 0 16 ] 0 1 1
-( -720 2640 544 ) ( -719 2640 544 ) ( -720 2640 545 ) hintskip [ -1 0 0 -32 ] [ 0 0 -1 0 ] 0 1 1
+( -736 2608 528 ) ( -736 2609 528 ) ( -736 2608 529 ) {gate_2 [ 0 -1 0 16 ] [ 0 0 -1 0 ] 0 1 1
+( -752 2576 528 ) ( -752 2576 529 ) ( -751 2576 528 ) {gate_2 [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
+( -752 2608 528 ) ( -751 2608 528 ) ( -752 2609 528 ) {gate_2 [ -1 0 0 -32 ] [ 0 -1 0 16 ] 0 1 1
+( -720 2656 672 ) ( -720 2657 672 ) ( -719 2656 672 ) {gate_2 [ 1 0 0 32 ] [ 0 -1 0 16 ] 0 1 1
+( -720 2640 544 ) ( -719 2640 544 ) ( -720 2640 545 ) {gate_2 [ -1 0 0 -32 ] [ 0 0 -1 0 ] 0 1 1
 ( -720 2656 544 ) ( -720 2656 545 ) ( -720 2657 544 ) {gate_2 [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 90
+// entity 92
 {
 "classname" "path_corner"
 "origin" "3528 1816 536"
@@ -15834,7 +16010,7 @@
 "targetname" "CSNKnightPatrol1"
 "target" "CSNKnightPatrol2"
 }
-// entity 91
+// entity 93
 {
 "classname" "path_corner"
 "origin" "3528 2008 536"
@@ -15842,7 +16018,7 @@
 "targetname" "CSNKnightPatrol2"
 "target" "CSNKnightPatrol1"
 }
-// entity 92
+// entity 94
 {
 "classname" "path_corner"
 "origin" "3656 2008 552"
@@ -15850,7 +16026,7 @@
 "targetname" "CSNKnightPatrol3"
 "target" "CSNKnightPatrol4"
 }
-// entity 93
+// entity 95
 {
 "classname" "path_corner"
 "origin" "3672 1816 552"
@@ -15858,7 +16034,7 @@
 "targetname" "CSNKnightPatrol4"
 "target" "CSNKnightPatrol3"
 }
-// entity 94
+// entity 96
 {
 "classname" "path_corner"
 "origin" "3880 1848 712"
@@ -15866,7 +16042,7 @@
 "targetname" "CSNEnforcerPatrol1"
 "target" "CSNEnforcerPatrol2"
 }
-// entity 95
+// entity 97
 {
 "classname" "path_corner"
 "origin" "3880 2040 712"
@@ -15874,7 +16050,7 @@
 "targetname" "CSNEnforcerPatrol2"
 "target" "CSNEnforcerPatrol1"
 }
-// entity 96
+// entity 98
 {
 "classname" "path_corner"
 "origin" "3944 2040 712"
@@ -15882,7 +16058,7 @@
 "targetname" "CSNEnforcerPatrol3"
 "target" "CSNEnforcerPatrol4"
 }
-// entity 97
+// entity 99
 {
 "classname" "path_corner"
 "origin" "3944 1848 712"
@@ -15890,7 +16066,7 @@
 "targetname" "CSNEnforcerPatrol4"
 "target" "CSNEnforcerPatrol3"
 }
-// entity 98
+// entity 100
 {
 "classname" "func_door"
 "angle" "0"
@@ -15911,7 +16087,7 @@
 ( -1424 2556 544 ) ( -1424 2555 544 ) ( -1424 2556 545 ) 64_brown_3 [ -6.123233995736766e-17 1 0 20 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 99
+// entity 101
 {
 "classname" "func_door"
 "angle" "270"
@@ -15927,7 +16103,7 @@
 ( -1524 2128 528 ) ( -1524 2128 529 ) ( -1524 2129 528 ) 64_brown_3 [ 6.123233995736766e-17 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 100
+// entity 102
 {
 "classname" "func_door"
 "angle" "270"
@@ -15943,62 +16119,62 @@
 ( -1524 1920 528 ) ( -1524 1920 529 ) ( -1524 1921 528 ) 64_brown_3 [ 6.123233995736766e-17 1 0 48 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 101
+// entity 103
 {
 "classname" "trigger_once"
 "target" "WGAmbush2"
 // brush 0
 {
-( -1520 2176 528 ) ( -1520 2177 528 ) ( -1520 2176 529 ) trigger [ 0 -1 0 16 ] [ 0 0 -1 0 ] 0 1 1
-( -1504 2176 528 ) ( -1504 2176 529 ) ( -1503 2176 528 ) trigger [ 1 0 0 -16 ] [ 0 0 -1 0 ] 0 1 1
-( -1504 2176 528 ) ( -1503 2176 528 ) ( -1504 2177 528 ) trigger [ -1 0 0 16 ] [ 0 -1 0 16 ] 0 1 1
-( -1376 2192 640 ) ( -1376 2193 640 ) ( -1375 2192 640 ) trigger [ 1 0 0 -16 ] [ 0 -1 0 16 ] 0 1 1
-( -1376 2192 544 ) ( -1375 2192 544 ) ( -1376 2192 545 ) trigger [ -1 0 0 16 ] [ 0 0 -1 0 ] 0 1 1
-( -1392 2192 544 ) ( -1392 2192 545 ) ( -1392 2193 544 ) trigger [ 0 1 0 -16 ] [ 0 0 -1 0 ] 0 1 1
+( -1520 2160 528 ) ( -1520 2161 528 ) ( -1520 2160 529 ) trigger [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
+( -1504 2160 528 ) ( -1504 2160 529 ) ( -1503 2160 528 ) trigger [ 1 0 0 -16 ] [ 0 0 -1 0 ] 0 1 1
+( -1504 2160 528 ) ( -1503 2160 528 ) ( -1504 2161 528 ) trigger [ -1 0 0 16 ] [ 0 -1 0 0 ] 0 1 1
+( -1376 2176 640 ) ( -1376 2177 640 ) ( -1375 2176 640 ) trigger [ 1 0 0 -16 ] [ 0 -1 0 0 ] 0 1 1
+( -1376 2176 544 ) ( -1375 2176 544 ) ( -1376 2176 545 ) trigger [ -1 0 0 16 ] [ 0 0 -1 0 ] 0 1 1
+( -1392 2176 544 ) ( -1392 2176 545 ) ( -1392 2177 544 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 102
+// entity 104
 {
 "classname" "monster_dog"
 "origin" "-1584 1952 552"
 "targetname" "WGAmbush2"
 "spawnflags" "1"
 }
-// entity 103
+// entity 105
 {
 "classname" "monster_enforcer"
 "origin" "-1648 1936 552"
 "targetname" "WGAmbush2"
 "spawnflags" "1"
 }
-// entity 104
+// entity 106
 {
 "classname" "monster_dog"
 "origin" "-1584 2160 552"
 "targetname" "WGAmbush2"
 "spawnflags" "1"
 }
-// entity 105
+// entity 107
 {
 "classname" "monster_army"
 "origin" "-1680 2144 552"
 "targetname" "WGAmbush2"
 "spawnflags" "1"
 }
-// entity 106
+// entity 108
 {
 "classname" "monster_army"
 "origin" "-1648 2192 552"
 "targetname" "WGAmbush2"
 "spawnflags" "1"
 }
-// entity 107
+// entity 109
 {
 "classname" "func_door"
 "angle" "90"
 "spawnflags" "1"
-"wait" "10"
-"targetname" "WGSeqNailgun"
+"wait" "-1"
+"targetname" "WGSequenceDone"
 // brush 0
 {
 ( -1388 1856 528 ) ( -1388 1857 528 ) ( -1388 1856 529 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
@@ -16009,33 +16185,32 @@
 ( -1380 1920 532 ) ( -1380 1920 533 ) ( -1380 1921 532 ) 64_brown_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 108
+// entity 110
 {
 "classname" "monster_enforcer"
 "origin" "-1168 2288 552"
 "angle" "0"
 "targetname" "WGAmbush1"
 }
-// entity 109
+// entity 111
 {
 "classname" "monster_enforcer"
 "origin" "-1392 2416 552"
 "angle" "270"
 "targetname" "WGAmbush1"
 }
-// entity 110
+// entity 112
 {
 "classname" "monster_ogre"
 "origin" "-784 2048 552"
 "angle" "180"
-"target" "WG1stOgre"
 }
-// entity 111
+// entity 113
 {
 "classname" "func_door"
 "angle" "90"
 "sounds" "2"
-"targetname" "WGSeqNailgun"
+"targetname" "WGSequenceDone"
 "wait" "-1"
 // brush 0
 {
@@ -16047,1668 +16222,34 @@
 ( -832 2112 544 ) ( -832 2112 545 ) ( -832 2113 544 ) 64_grey_4 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
 }
 }
-// entity 112
+// entity 114
 {
 "classname" "monster_dog"
 "origin" "-784 2128 552"
 "angle" "180"
 }
-// entity 113
+// entity 115
 {
 "classname" "monster_dog"
 "origin" "-784 1968 552"
 "angle" "180"
 }
-// entity 114
+// entity 116
 {
 "classname" "item_armor1"
 "origin" "-816 2416 528"
 }
-// entity 115
+// entity 117
 {
 "classname" "item_armor2"
 "origin" "-1632 2528 528"
 "angle" "270"
 }
-// entity 116
-{
-"classname" "item_armorInv"
-"origin" "-1840 2640 848"
-"angle" "270"
-}
-// entity 117
-{
-"classname" "func_door"
-"angle" "90"
-"sounds" "4"
-"targetname" "WG1stDeadOgre"
-"wait" "-1"
-// brush 0
-{
-( -972 1792 528 ) ( -972 1793 528 ) ( -972 1792 529 ) {gate_2 [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
-( -980 1824 528 ) ( -980 1824 529 ) ( -979 1824 528 ) {gate_2 [ 1 0 0 4 ] [ 0 0 -1 0 ] 0 1 1
-( -980 1792 528 ) ( -979 1792 528 ) ( -980 1793 528 ) hintskip [ -1 0 0 -4 ] [ 0 -1 0 -32 ] 0 1 1
-( -964 1856 640 ) ( -964 1857 640 ) ( -963 1856 640 ) hintskip [ 1 0 0 4 ] [ 0 -1 0 -32 ] 0 1 1
-( -964 1888 544 ) ( -963 1888 544 ) ( -964 1888 545 ) {gate_2 [ -1 0 0 -4 ] [ 0 0 -1 0 ] 0 1 1
-( -964 1856 544 ) ( -964 1856 545 ) ( -964 1857 544 ) {gate_2 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
 // entity 118
 {
-"classname" "trigger_counter"
-"origin" "-984 1896 648"
-"targetname" "WG1stOgre"
-"target" "WG1stDeadOgre"
-"count" "1"
-"message" "Ogre Defeated!"
-}
-// entity 119
-{
-"classname" "item_health"
-"origin" "-896 1920 528"
-}
-// entity 120
-{
-"classname" "item_health"
-"origin" "-896 2176 528"
-}
-// entity 121
-{
-"classname" "item_health"
-"origin" "-976 2464 560"
-}
-// entity 122
-{
-"classname" "func_door"
+"classname" "item_armorInv"
+"origin" "-784 1856 672"
 "angle" "180"
-"wait" "3"
-// brush 0
-{
-( -992 2012 672 ) ( -992 2013 672 ) ( -992 2012 673 ) 64_brown_3 [ 0 -1 0 -4 ] [ 0 0 -1 0 ] 0 1 1
-( -992 2020 672 ) ( -992 2020 673 ) ( -991 2020 672 ) 64_brown_3 [ 1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
-( -992 2012 672 ) ( -991 2012 672 ) ( -992 2013 672 ) 64_brown_3 [ -1 0 0 -32 ] [ 0 -1 0 -4 ] 0 1 1
-( -928 2028 768 ) ( -928 2029 768 ) ( -927 2028 768 ) 64_brown_3 [ 1 0 0 32 ] [ 0 -1 0 -4 ] 0 1 1
-( -928 2028 688 ) ( -927 2028 688 ) ( -928 2028 689 ) 64_brown_3 [ -1 0 0 -32 ] [ 0 0 -1 0 ] 0 1 1
-( -928 2028 688 ) ( -928 2028 689 ) ( -928 2029 688 ) 64_brown_3 [ 0 1 0 4 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 123
-{
-"classname" "func_door"
-"angle" "270"
-"wait" "-1"
-"targetname" "WGAmbush3"
-// brush 0
-{
-( -1196 2304 688 ) ( -1196 2305 688 ) ( -1196 2304 689 ) 64_brown_3 [ -6.123233995736766e-17 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1180 2240 672 ) ( -1181 2240 672 ) ( -1180 2240 673 ) 64_brown_3 [ 1 -6.123233995736766e-17 0 -4 ] [ 0 0 -1 0 ] 0 1 1
-( -1180 2240 672 ) ( -1180 2241 672 ) ( -1181 2240 672 ) 64_brown_3 [ -6.123233995736766e-17 -1 0 0 ] [ 1 -6.123233995736766e-17 0 -4 ] 90 1 1
-( -1196 2304 768 ) ( -1197 2304 768 ) ( -1196 2305 768 ) 64_brown_3 [ 6.123233995736766e-17 1 0 0 ] [ 1 -6.123233995736766e-17 0 -4 ] 270 1 1
-( -1196 2304 688 ) ( -1196 2304 689 ) ( -1197 2304 688 ) 64_brown_3 [ -1 6.123233995736766e-17 0 4 ] [ 0 0 -1 0 ] 0 1 1
-( -1188 2240 672 ) ( -1188 2240 673 ) ( -1188 2241 672 ) 64_brown_3 [ 6.123233995736766e-17 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 124
-{
-"classname" "func_door"
-"angle" "90"
-"wait" "-1"
-"targetname" "WGAmbush3"
-// brush 0
-{
-( -1196 2368 688 ) ( -1196 2369 688 ) ( -1196 2368 689 ) 64_brown_3 [ -6.123233995736766e-17 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1180 2304 672 ) ( -1181 2304 672 ) ( -1180 2304 673 ) 64_brown_3 [ 1 -6.123233995736766e-17 0 -4 ] [ 0 0 -1 0 ] 0 1 1
-( -1180 2304 672 ) ( -1180 2305 672 ) ( -1181 2304 672 ) 64_brown_3 [ -6.123233995736766e-17 -1 0 0 ] [ 1 -6.123233995736766e-17 0 -4 ] 90 1 1
-( -1196 2368 768 ) ( -1197 2368 768 ) ( -1196 2369 768 ) 64_brown_3 [ 6.123233995736766e-17 1 0 0 ] [ 1 -6.123233995736766e-17 0 -4 ] 270 1 1
-( -1196 2368 688 ) ( -1196 2368 689 ) ( -1197 2368 688 ) 64_brown_3 [ -1 6.123233995736766e-17 0 4 ] [ 0 0 -1 0 ] 0 1 1
-( -1188 2304 672 ) ( -1188 2304 673 ) ( -1188 2305 672 ) 64_brown_3 [ 6.123233995736766e-17 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 125
-{
-"classname" "item_artifact_super_damage"
-"origin" "-960 2304 696"
-"target" "WGAmbush3"
-}
-// entity 126
-{
-"classname" "monster_ogre"
-"origin" "-1616 2176 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 127
-{
-"classname" "func_door"
-// brush 0
-{
-( -1536 2012 672 ) ( -1536 2013 672 ) ( -1536 2012 673 ) 64_brown_3 [ 0 -1 0 -4 ] [ 0 0 -1 0 ] 0 1 1
-( -1536 2020 672 ) ( -1536 2020 673 ) ( -1535 2020 672 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1536 2012 672 ) ( -1535 2012 672 ) ( -1536 2013 672 ) 64_brown_3 [ -1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
-( -1472 2028 768 ) ( -1472 2029 768 ) ( -1471 2028 768 ) 64_brown_3 [ 1 0 0 0 ] [ 0 -1 0 -4 ] 0 1 1
-( -1472 2028 688 ) ( -1471 2028 688 ) ( -1472 2028 689 ) 64_brown_3 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1472 2028 688 ) ( -1472 2028 689 ) ( -1472 2029 688 ) 64_brown_3 [ 0 1 0 4 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 128
-{
-"classname" "func_door_secret"
-"angle" "270"
-"t_length" ""
-"targetname" "SecretArea4"
-"wait" "-1"
-// brush 0
-{
-( -1468 2400 672 ) ( -1468 2401 672 ) ( -1468 2400 673 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1468 2400 672 ) ( -1468 2400 673 ) ( -1467 2400 672 ) 64_brown_3 [ 1 0 0 -4 ] [ 0 0 -1 0 ] 0 1 1
-( -1468 2400 672 ) ( -1467 2400 672 ) ( -1468 2401 672 ) 64_brown_3 [ -1 0 0 4 ] [ 0 -1 0 0 ] 0 1 1
-( -1452 2464 768 ) ( -1452 2465 768 ) ( -1451 2464 768 ) 64_brown_3 [ 1 0 0 -4 ] [ 0 -1 0 0 ] 0 1 1
-( -1452 2464 688 ) ( -1451 2464 688 ) ( -1452 2464 689 ) 64_brown_3 [ -1 0 0 4 ] [ 0 0 -1 0 ] 0 1 1
-( -1460 2464 688 ) ( -1460 2464 689 ) ( -1460 2465 688 ) 64_brown_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 129
-{
-"classname" "func_button"
-"health" "1"
-"angle" "90"
-"target" "SecretArea4"
-// brush 0
-{
-( -1616 2560 848 ) ( -1616 2560 849 ) ( -1616 2559 848 ) wl_target2 [ 6.123233995736766e-17 -1 0 16 ] [ 0 0 -1 176 ] 0 1 1
-( -1536 2556 864 ) ( -1536 2556 865 ) ( -1535 2556 864 ) wl_target2 [ 1 6.123233995736766e-17 0 32 ] [ 0 0 -1 -102.39526 ] 0 0.5 0.3124994
-( -1584 2560 688 ) ( -1584 2559 688 ) ( -1583 2560 688 ) wl_target2 [ -6.123233995736766e-17 1 0 -16 ] [ -1 -6.123233995736766e-17 0 -80 ] 270 1 1
-( -1536 2544 768 ) ( -1535 2544 768 ) ( -1536 2543 768 ) wl_target2 [ 6.123233995736766e-17 -1 0 16 ] [ -1 -6.123233995736766e-17 0 -80 ] 90 1 1
-( -1584 2560 848 ) ( -1583 2560 848 ) ( -1584 2560 849 ) wl_target2 [ -1 -6.123233995736766e-17 0 -16 ] [ 0 0 -1 176 ] 0 1 1
-( -1584 2544 864 ) ( -1584 2543 864 ) ( -1584 2544 865 ) wl_target2 [ -6.123233995736766e-17 1 0 -16 ] [ 0 0 -1 176 ] 0 1 1
-}
-}
-// entity 130
-{
-"classname" "trigger_secret"
-"message" "You have found a secret area!"
-// brush 0
-{
-( -1488 2400 672 ) ( -1488 2401 672 ) ( -1488 2400 673 ) trigger [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1488 2400 672 ) ( -1488 2400 673 ) ( -1487 2400 672 ) trigger [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1488 2400 672 ) ( -1487 2400 672 ) ( -1488 2401 672 ) trigger [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1472 2464 768 ) ( -1472 2465 768 ) ( -1471 2464 768 ) trigger [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1472 2464 688 ) ( -1471 2464 688 ) ( -1472 2464 689 ) trigger [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1472 2464 688 ) ( -1472 2464 689 ) ( -1472 2465 688 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 131
-{
-"classname" "item_artifact_invisibility"
-"origin" "-1600 2432 696"
-}
-// entity 132
-{
-"classname" "item_spikes"
-"origin" "-1680 2448 704"
-}
-// entity 133
-{
-"classname" "item_cells"
-"origin" "-1680 2384 704"
-}
-// entity 134
-{
-"classname" "monster_ogre"
-"origin" "-1264 2288 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 135
-{
-"classname" "monster_enforcer"
-"origin" "-1360 2240 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 136
-{
-"classname" "monster_enforcer"
-"origin" "-1328 2352 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 137
-{
-"classname" "monster_enforcer"
-"origin" "-1392 2320 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 138
-{
-"classname" "monster_army"
-"origin" "-1472 2256 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 139
-{
-"classname" "monster_army"
-"origin" "-1504 2144 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 140
-{
-"classname" "monster_army"
-"origin" "-1440 2176 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 141
-{
-"classname" "monster_ogre"
-"origin" "-1408 2512 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 142
-{
-"classname" "monster_enforcer"
-"origin" "-1296 2192 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 143
-{
-"classname" "monster_enforcer"
-"origin" "-1280 2416 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 144
-{
-"classname" "monster_army"
-"origin" "-1376 2112 696"
-"spawnflags" "1"
-"targetname" "WGAmbush3"
-}
-// entity 145
-{
-"classname" "item_health"
-"origin" "-1712 1840 672"
-}
-// entity 146
-{
-"classname" "monster_knight"
-"origin" "-1072 2112 840"
-"targetname" "WGAmbush4"
-"spawnflags" "1"
-}
-// entity 147
-{
-"classname" "trigger_once"
-"target" "WGAmbush4"
-// brush 0
-{
-( -1024 2016 816 ) ( -1024 2017 816 ) ( -1024 2016 817 ) trigger [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
-( -1024 2016 816 ) ( -1024 2016 817 ) ( -1023 2016 816 ) trigger [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1024 2016 816 ) ( -1023 2016 816 ) ( -1024 2017 816 ) trigger [ -1 0 0 0 ] [ 0 -1 0 -32 ] 0 1 1
-( -736 2032 944 ) ( -736 2033 944 ) ( -735 2032 944 ) trigger [ 1 0 0 0 ] [ 0 -1 0 -32 ] 0 1 1
-( -736 2032 832 ) ( -735 2032 832 ) ( -736 2032 833 ) trigger [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -720 2032 832 ) ( -720 2032 833 ) ( -720 2033 832 ) trigger [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 148
-{
-"classname" "func_door"
-"angle" "90"
-"wait" "-1"
-"targetname" "WGAmbush4"
-// brush 0
-{
-( -1040 1888 816 ) ( -1040 1889 816 ) ( -1040 1888 817 ) 64_grey_3 [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
-( -1024 2048 816 ) ( -1024 2048 817 ) ( -1023 2048 816 ) 64_grey_3 [ 1 0 0 -32 ] [ 0 0 -1 0 ] 0 1 1
-( -1024 1888 816 ) ( -1023 1888 816 ) ( -1024 1889 816 ) 64_grey_3 [ -1 0 0 32 ] [ 0 -1 0 -32 ] 0 1 1
-( -976 1984 896 ) ( -976 1985 896 ) ( -975 1984 896 ) 64_grey_3 [ 1 0 0 -32 ] [ 0 -1 0 -32 ] 0 1 1
-( -976 2144 832 ) ( -975 2144 832 ) ( -976 2144 833 ) 64_grey_3 [ -1 0 0 32 ] [ 0 0 -1 0 ] 0 1 1
-( -1024 1984 832 ) ( -1024 1984 833 ) ( -1024 1985 832 ) 64_grey_3 [ 0 1 0 32 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 149
-{
-"classname" "monster_knight"
-"origin" "-1072 2064 840"
-"targetname" "WGAmbush4"
-"spawnflags" "1"
-}
-// entity 150
-{
-"classname" "monster_army"
-"origin" "-1120 2096 840"
-"targetname" "WGAmbush4"
-"spawnflags" "1"
-}
-// entity 151
-{
-"classname" "monster_ogre"
-"origin" "-1040 2832 1240"
-"angle" "90"
-"target" "OgreRoofJump"
-"targetname" "ORoof"
-"spawnflags" "1"
-}
-// entity 152
-{
-"classname" "trigger_monsterjump"
-"angle" "90"
-"height" "150"
-"speed" "120"
-"targetname" "OgreRoofJump"
-// brush 0
-{
-( -1088 2896 1208 ) ( -1088 2897 1208 ) ( -1088 2896 1209 ) trigger [ 0 -1 0 0 ] [ 0 0 -1 8 ] 0 1 1
-( -1120 2880 1208 ) ( -1120 2880 1209 ) ( -1119 2880 1208 ) trigger [ 1 0 0 0 ] [ 0 0 -1 8 ] 0 1 1
-( -1120 2896 1208 ) ( -1119 2896 1208 ) ( -1120 2897 1208 ) trigger [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -944 2912 1224 ) ( -944 2913 1224 ) ( -943 2912 1224 ) trigger [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -944 2912 1224 ) ( -943 2912 1224 ) ( -944 2912 1225 ) trigger [ -1 0 0 0 ] [ 0 0 -1 8 ] 0 1 1
-( -1004 2912 1224 ) ( -1004 2912 1225 ) ( -1004 2913 1224 ) trigger [ 0 1 0 0 ] [ 0 0 -1 8 ] 0 1 1
-}
-}
-// entity 153
-{
-"classname" "trigger_once"
-"target" "ORoof"
-// brush 0
-{
-( -907.1384387633061 2898.1435935394497 1104 ) ( -907.6384387633061 2899.009618943234 1104 ) ( -907.1384387633061 2898.1435935394497 1105 ) trigger [ 0.4999999999999978 -0.86602540378444 0 19.435303 ] [ 0 0 -1 0 ] 0 1 1
-( -762.7179676972446 3000 1120 ) ( -761.8519422934605 3000.5 1120 ) ( -762.7179676972446 3000 1121 ) trigger [ -0.8660254037844399 -0.4999999999999978 0 39.466858 ] [ 0 0 -1 0 ] 0 1 1
-( -907.1384387633061 2898.1435935394497 1104 ) ( -906.2724133595216 2898.6435935394497 1104 ) ( -907.6384387633061 2899.009618943234 1104 ) trigger [ -0.8660254037844399 -0.4999999999999978 0 39.466858 ] [ 0.4999999999999978 -0.86602540378444 0 19.435303 ] 30 1 1
-( -762.7179676972446 3000 1216 ) ( -763.2179676972446 3000.8660254037845 1216 ) ( -761.8519422934605 3000.5 1216 ) trigger [ 0.8660254037844399 0.4999999999999978 0 -39.466858 ] [ 0.4999999999999978 -0.86602540378444 0 19.435303 ] 330 1 1
-( -907.1384387633061 2898.1435935394497 1104 ) ( -907.1384387633061 2898.1435935394497 1105 ) ( -906.2724133595216 2898.6435935394497 1104 ) trigger [ 0.8660254037844399 0.4999999999999978 0 -39.466858 ] [ 0 0 -1 0 ] 0 1 1
-( -748.8615612366939 3008 1120 ) ( -748.8615612366939 3008 1121 ) ( -749.3615612366939 3008.8660254037845 1120 ) trigger [ -0.4999999999999978 0.86602540378444 0 -19.435303 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 154
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "OfficeDesk"
-"_tb_id" "10"
-// brush 0
-{
-( 1120 496 80 ) ( 1120 496 81 ) ( 1120 495 80 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ 0 0 -1 0 ] 0 1 1
-( 1124 464 84 ) ( 1124 464 85 ) ( 1125 464 84 ) 64_brown_3 [ 1 6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1120 496 80 ) ( 1120 495 80 ) ( 1121 496 80 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ -1 -6.123233995736766e-17 0 0 ] 270 1 1
-( 1124 464 108 ) ( 1125 464 108 ) ( 1124 463 108 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ -1 -6.123233995736766e-17 0 0 ] 90 1 1
-( 1120 496 80 ) ( 1121 496 80 ) ( 1120 496 81 ) 64_brown_3 [ -1 -6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1124 464 84 ) ( 1124 463 84 ) ( 1124 464 85 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 1
-{
-( 1180 496 80 ) ( 1180 496 81 ) ( 1180 495 80 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ 0 0 -1 0 ] 0 1 1
-( 1184 464 84 ) ( 1184 464 85 ) ( 1185 464 84 ) 64_brown_3 [ 1 6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1180 496 80 ) ( 1180 495 80 ) ( 1181 496 80 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ -1 -6.123233995736766e-17 0 0 ] 270 1 1
-( 1184 464 108 ) ( 1185 464 108 ) ( 1184 463 108 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ -1 -6.123233995736766e-17 0 0 ] 90 1 1
-( 1180 496 80 ) ( 1181 496 80 ) ( 1180 496 81 ) 64_brown_3 [ -1 -6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1184 464 84 ) ( 1184 463 84 ) ( 1184 464 85 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 2
-{
-( 1160 496 80 ) ( 1160 496 81 ) ( 1160 495 80 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ 0 0 -1 0 ] 0 1 1
-( 1164 464 84 ) ( 1164 464 85 ) ( 1165 464 84 ) 64_brown_3 [ 1 6.123233995736766e-17 0 -44 ] [ 0 0 -1 0 ] 0 1 1
-( 1160 496 80 ) ( 1160 495 80 ) ( 1161 496 80 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ -1 -6.123233995736766e-17 0 44 ] 270 1 1
-( 1164 464 108 ) ( 1165 464 108 ) ( 1164 463 108 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ -1 -6.123233995736766e-17 0 44 ] 90 1 1
-( 1160 496 80 ) ( 1161 496 80 ) ( 1160 496 81 ) 64_brown_3 [ -1 -6.123233995736766e-17 0 44 ] [ 0 0 -1 0 ] 0 1 1
-( 1164 464 84 ) ( 1164 463 84 ) ( 1164 464 85 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 3
-{
-( 1124 496 80 ) ( 1124 496 81 ) ( 1124 495 80 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ 0 0 -1 0 ] 0 1 1
-( 1180 492 84 ) ( 1180 492 85 ) ( 1181 492 84 ) 64_brown_3 [ 1 6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1124 496 80 ) ( 1124 495 80 ) ( 1125 496 80 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ -1 -6.123233995736766e-17 0 0 ] 270 1 1
-( 1180 492 108 ) ( 1181 492 108 ) ( 1180 491 108 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ -1 -6.123233995736766e-17 0 0 ] 90 1 1
-( 1124 496 80 ) ( 1125 496 80 ) ( 1124 496 81 ) 64_brown_3 [ -1 -6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1180 492 84 ) ( 1180 491 84 ) ( 1180 492 85 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 4
-{
-( 1164 492 84 ) ( 1164 492 85 ) ( 1164 491 84 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ 0 0 -1 4 ] 0 1 1
-( 1180 464 88 ) ( 1180 464 89 ) ( 1181 464 88 ) 64_brown_3 [ 1 6.123233995736766e-17 0 0 ] [ 0 0 -1 4 ] 0 1 1
-( 1164 492 84 ) ( 1164 491 84 ) ( 1165 492 84 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ -1 -6.123233995736766e-17 0 0 ] 270 1 1
-( 1180 464 88 ) ( 1181 464 88 ) ( 1180 463 88 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ -1 -6.123233995736766e-17 0 0 ] 90 1 1
-( 1164 492 84 ) ( 1165 492 84 ) ( 1164 492 85 ) 64_brown_3 [ -1 -6.123233995736766e-17 0 0 ] [ 0 0 -1 4 ] 0 1 1
-( 1180 464 88 ) ( 1180 463 88 ) ( 1180 464 89 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ 0 0 -1 4 ] 0 1 1
-}
-// brush 5
-{
-( 1128 496 112 ) ( 1128 496 113 ) ( 1128 495 112 ) 64_grey_3 [ 6.123233995736766e-17 -1 0 56 ] [ 0 0 -1 0 ] 0 1 1
-( 1152 480 116 ) ( 1152 480 117 ) ( 1153 480 116 ) 64_grey_3 [ 1 6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1128 496 112 ) ( 1128 495 112 ) ( 1129 496 112 ) 64_grey_3 [ -6.123233995736766e-17 1 0 -56 ] [ -1 -6.123233995736766e-17 0 0 ] 270 1 1
-( 1152 480 128 ) ( 1153 480 128 ) ( 1152 479 128 ) 64_grey_3 [ 6.123233995736766e-17 -1 0 56 ] [ -1 -6.123233995736766e-17 0 0 ] 90 1 1
-( 1128 484 112 ) ( 1129 484 112 ) ( 1128 484 113 ) 64_grey_3 [ -1 -6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1156 480 116 ) ( 1156 479 116 ) ( 1156 480 117 ) 64_grey_3 [ -6.123233995736766e-17 1 0 -56 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 6
-{
-( 1120 496 108 ) ( 1120 496 109 ) ( 1120 495 108 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ 0 0 -1 0 ] 0 1 1
-( 1184 464 112 ) ( 1184 464 113 ) ( 1185 464 112 ) 64_brown_3 [ 1 6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1120 496 108 ) ( 1120 495 108 ) ( 1121 496 108 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ -1 -6.123233995736766e-17 0 0 ] 270 1 1
-( 1184 464 112 ) ( 1185 464 112 ) ( 1184 463 112 ) 64_brown_3 [ 6.123233995736766e-17 -1 0 48 ] [ -1 -6.123233995736766e-17 0 0 ] 90 1 1
-( 1120 496 108 ) ( 1121 496 108 ) ( 1120 496 109 ) 64_brown_3 [ -1 -6.123233995736766e-17 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 1184 464 112 ) ( 1184 463 112 ) ( 1184 464 113 ) 64_brown_3 [ -6.123233995736766e-17 1 0 -48 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 7
-{
-( 1166 486 88 ) ( 1166 486 89 ) ( 1166 485 88 ) 64_grey_3 [ 6.123233995736766e-17 -1 0 46 ] [ 0 0 -1 0 ] 0 1 1
-( 1178 466 92 ) ( 1178 466 93 ) ( 1179 466 92 ) 64_grey_3 [ 1 6.123233995736766e-17 0 -2 ] [ 0 0 -1 0 ] 0 1 1
-( 1166 486 88 ) ( 1166 485 88 ) ( 1167 486 88 ) 64_grey_3 [ -6.123233995736766e-17 1 0 -46 ] [ -1 -6.123233995736766e-17 0 2 ] 270 1 1
-( 1178 466 104 ) ( 1179 466 104 ) ( 1178 465 104 ) 64_grey_3 [ 6.123233995736766e-17 -1 0 46 ] [ -1 -6.123233995736766e-17 0 2 ] 90 1 1
-( 1166 486 88 ) ( 1167 486 88 ) ( 1166 486 89 ) 64_grey_3 [ -1 -6.123233995736766e-17 0 2 ] [ 0 0 -1 0 ] 0 1 1
-( 1178 466 92 ) ( 1178 465 92 ) ( 1178 466 93 ) 64_grey_3 [ -6.123233995736766e-17 1 0 -46 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 155
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "DaChair"
-"_tb_id" "11"
-// brush 0
-{
-( 1165.0717967697246 237.07179676972453 80 ) ( 1164.5717967697246 237.93782217350895 80 ) ( 1165.0717967697246 237.07179676972453 81 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -33.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] 90 1 1
-( 1160.5358983848623 252.92820323027547 96 ) ( 1161.4019237886466 253.42820323027547 96 ) ( 1160.5358983848623 252.92820323027547 97 ) 64_brown_3 [ 2.2412591957561626e-17 8.364493191492912e-17 1 24 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 90 1 1
-( 1165.0717967697246 237.07179676972453 80 ) ( 1165.937822173509 237.57179676972453 80 ) ( 1164.5717967697246 237.93782217350895 80 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 33.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 210 1 1
-( 1160.5358983848623 252.92820323027547 96 ) ( 1160.0358983848623 253.79422863406 96 ) ( 1161.4019237886466 253.42820323027547 96 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -33.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 150 1 1
-( 1165.0717967697246 237.07179676972453 80 ) ( 1165.0717967697246 237.07179676972453 81 ) ( 1165.937822173509 237.57179676972453 80 ) 64_brown_3 [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 270 1 1
-( 1160.5358983848623 252.92820323027547 96 ) ( 1160.5358983848623 252.92820323027547 97 ) ( 1160.0358983848623 253.79422863406 96 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 33.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] 270 1 1
-}
-// brush 1
-{
-( 1148.6794919243112 241.4641016151378 80 ) ( 1148.1794919243112 242.33012701892233 80 ) ( 1148.6794919243112 241.4641016151378 81 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -33.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -36 ] 90 1 1
-( 1150.1435935394488 246.92820323027547 84 ) ( 1151.0096189432334 247.42820323027547 84 ) ( 1150.1435935394488 246.92820323027547 85 ) 64_brown_3 [ 2.2412591957561626e-17 8.364493191492912e-17 1 36 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 90 1 1
-( 1148.6794919243112 241.4641016151378 80 ) ( 1149.5455173280957 241.9641016151378 80 ) ( 1148.1794919243112 242.33012701892233 80 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 33.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 210 1 1
-( 1150.1435935394488 246.92820323027547 84 ) ( 1149.6435935394488 247.79422863406 84 ) ( 1151.0096189432334 247.42820323027547 84 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -33.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 150 1 1
-( 1148.6794919243112 241.4641016151378 80 ) ( 1148.6794919243112 241.4641016151378 81 ) ( 1149.5455173280957 241.9641016151378 80 ) 64_brown_3 [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -36 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 270 1 1
-( 1157.0717967697246 250.92820323027547 84 ) ( 1157.0717967697246 250.92820323027547 85 ) ( 1156.5717967697246 251.79422863406 84 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 33.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -36 ] 270 1 1
-}
-// brush 2
-{
-( 1154.6794919243112 231.07179676972453 80 ) ( 1154.1794919243112 231.93782217350906 80 ) ( 1154.6794919243112 231.07179676972453 81 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -45.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -36 ] 90 1 1
-( 1156.1435935394488 236.5358983848622 84 ) ( 1157.0096189432334 237.0358983848622 84 ) ( 1156.1435935394488 236.5358983848622 85 ) 64_brown_3 [ 2.2412591957561626e-17 8.364493191492912e-17 1 36 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 90 1 1
-( 1154.6794919243112 231.07179676972453 80 ) ( 1155.5455173280957 231.57179676972453 80 ) ( 1154.1794919243112 231.93782217350906 80 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 45.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 210 1 1
-( 1156.1435935394488 236.5358983848622 84 ) ( 1155.6435935394488 237.40192378864663 84 ) ( 1157.0096189432334 237.0358983848622 84 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -45.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 150 1 1
-( 1154.6794919243112 231.07179676972453 80 ) ( 1154.6794919243112 231.07179676972453 81 ) ( 1155.5455173280957 231.57179676972453 80 ) 64_brown_3 [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -36 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 270 1 1
-( 1163.0717967697246 240.5358983848622 84 ) ( 1163.0717967697246 240.5358983848622 85 ) ( 1162.5717967697246 241.40192378864663 84 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 45.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -36 ] 270 1 1
-}
-// brush 3
-{
-( 1162.5358983848623 249.4641016151378 80 ) ( 1162.0358983848623 250.3301270189222 80 ) ( 1162.5358983848623 249.4641016151378 81 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -33.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] 90 1 1
-( 1164 254.92820323027547 96 ) ( 1164.8660254037845 255.42820323027547 96 ) ( 1164 254.92820323027547 97 ) 64_brown_3 [ 2.2412591957561626e-17 8.364493191492912e-17 1 24 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 90 1 1
-( 1162.5358983848623 249.4641016151378 80 ) ( 1163.4019237886466 249.9641016151378 80 ) ( 1162.0358983848623 250.3301270189222 80 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 33.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 210 1 1
-( 1164 254.92820323027547 96 ) ( 1163.5 255.79422863406 96 ) ( 1164.8660254037845 255.42820323027547 96 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -33.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 150 1 1
-( 1162.5358983848623 249.4641016151378 80 ) ( 1162.5358983848623 249.4641016151378 81 ) ( 1163.4019237886466 249.9641016151378 80 ) 64_brown_3 [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 270 1 1
-( 1177.856406460551 262.92820323027547 96 ) ( 1177.856406460551 262.92820323027547 97 ) ( 1177.356406460551 263.79422863406 96 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 33.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] 270 1 1
-}
-// brush 4
-{
-( 1154.6794919243112 231.07179676972453 92 ) ( 1154.1794919243112 231.93782217350906 92 ) ( 1154.6794919243112 231.07179676972453 93 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -45.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] 90 1 1
-( 1156.1435935394488 236.5358983848622 96 ) ( 1157.0096189432334 237.0358983848622 96 ) ( 1156.1435935394488 236.5358983848622 97 ) 64_brown_3 [ 2.2412591957561626e-17 8.364493191492912e-17 1 24 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 90 1 1
-( 1154.6794919243112 231.07179676972453 92 ) ( 1155.5455173280957 231.57179676972453 92 ) ( 1154.1794919243112 231.93782217350906 92 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 45.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 210 1 1
-( 1156.1435935394488 236.5358983848622 96 ) ( 1155.6435935394488 237.40192378864663 96 ) ( 1157.0096189432334 237.0358983848622 96 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -45.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 150 1 1
-( 1154.6794919243112 231.07179676972453 92 ) ( 1154.6794919243112 231.07179676972453 93 ) ( 1155.5455173280957 231.57179676972453 92 ) 64_brown_3 [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 270 1 1
-( 1163.0717967697246 240.5358983848622 96 ) ( 1163.0717967697246 240.5358983848622 97 ) ( 1162.5717967697246 241.40192378864663 96 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 45.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] 270 1 1
-}
-// brush 5
-{
-( 1148.6794919243112 241.4641016151378 92 ) ( 1148.1794919243112 242.33012701892233 92 ) ( 1148.6794919243112 241.4641016151378 93 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -33.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] 90 1 1
-( 1150.1435935394488 246.92820323027547 96 ) ( 1151.0096189432334 247.42820323027547 96 ) ( 1150.1435935394488 246.92820323027547 97 ) 64_brown_3 [ 2.2412591957561626e-17 8.364493191492912e-17 1 24 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 90 1 1
-( 1148.6794919243112 241.4641016151378 92 ) ( 1149.5455173280957 241.9641016151378 92 ) ( 1148.1794919243112 242.33012701892233 92 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 33.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 210 1 1
-( 1150.1435935394488 246.92820323027547 96 ) ( 1149.6435935394488 247.79422863406 96 ) ( 1151.0096189432334 247.42820323027547 96 ) 64_brown_3 [ 0.49999999999999856 -0.8660254037844395 6.123233995736766e-17 -33.225708 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 150 1 1
-( 1148.6794919243112 241.4641016151378 92 ) ( 1148.6794919243112 241.4641016151378 93 ) ( 1149.5455173280957 241.9641016151378 92 ) 64_brown_3 [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] [ -0.8660254037844396 -0.49999999999999856 6.123233995736766e-17 -52.4823 ] 270 1 1
-( 1157.0717967697246 250.92820323027547 96 ) ( 1157.0717967697246 250.92820323027547 97 ) ( 1156.5717967697246 251.79422863406 96 ) 64_brown_3 [ -0.49999999999999856 0.8660254037844395 -6.123233995736766e-17 33.225708 ] [ -2.2412591957561626e-17 -8.364493191492912e-17 -1 -24 ] 270 1 1
-}
-}
-// entity 156
-{
-"classname" "item_shells"
-"origin" "1200 448 80"
-}
-// entity 157
-{
-"classname" "item_shells"
-"origin" "1200 224 80"
-}
-// entity 158
-{
-"classname" "item_shells"
-"origin" "96 336 288"
-"spawnflags" "1"
-}
-// entity 159
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "WoodTable"
-"_tb_id" "12"
-// brush 0
-{
-( 2156 1792 528 ) ( 2156 1793 528 ) ( 2156 1792 529 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 2156 1792 528 ) ( 2156 1792 529 ) ( 2157 1792 528 ) 64_brown_3 [ 1 0 0 48 ] [ 0 0 -1 0 ] 0 1 1
-( 2156 1792 528 ) ( 2157 1792 528 ) ( 2156 1793 528 ) 64_brown_3 [ -1 0 0 -48 ] [ 0 -1 0 0 ] 0 1 1
-( 2160 1796 552 ) ( 2160 1797 552 ) ( 2161 1796 552 ) 64_brown_3 [ 1 0 0 48 ] [ 0 -1 0 0 ] 0 1 1
-( 2160 1796 532 ) ( 2161 1796 532 ) ( 2160 1796 533 ) 64_brown_3 [ -1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
-( 2160 1796 532 ) ( 2160 1796 533 ) ( 2160 1797 532 ) 64_brown_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 1
-{
-( 2128 1820 528 ) ( 2128 1821 528 ) ( 2128 1820 529 ) 64_brown_3 [ 0 -1 0 28 ] [ 0 0 -1 0 ] 0 1 1
-( 2128 1820 528 ) ( 2128 1820 529 ) ( 2129 1820 528 ) 64_brown_3 [ 1 0 0 12 ] [ 0 0 -1 0 ] 0 1 1
-( 2128 1820 528 ) ( 2129 1820 528 ) ( 2128 1821 528 ) 64_brown_3 [ -1 0 0 -12 ] [ 0 -1 0 28 ] 0 1 1
-( 2132 1824 552 ) ( 2132 1825 552 ) ( 2133 1824 552 ) 64_brown_3 [ 1 0 0 12 ] [ 0 -1 0 28 ] 0 1 1
-( 2132 1824 532 ) ( 2133 1824 532 ) ( 2132 1824 533 ) 64_brown_3 [ -1 0 0 -12 ] [ 0 0 -1 0 ] 0 1 1
-( 2132 1824 532 ) ( 2132 1824 533 ) ( 2132 1825 532 ) 64_brown_3 [ 0 1 0 -28 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 2
-{
-( 2128 1792 528 ) ( 2128 1793 528 ) ( 2128 1792 529 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( 2128 1792 528 ) ( 2128 1792 529 ) ( 2129 1792 528 ) 64_brown_3 [ 1 0 0 12 ] [ 0 0 -1 0 ] 0 1 1
-( 2128 1792 528 ) ( 2129 1792 528 ) ( 2128 1793 528 ) 64_brown_3 [ -1 0 0 -12 ] [ 0 -1 0 0 ] 0 1 1
-( 2132 1796 552 ) ( 2132 1797 552 ) ( 2133 1796 552 ) 64_brown_3 [ 1 0 0 12 ] [ 0 -1 0 0 ] 0 1 1
-( 2132 1796 532 ) ( 2133 1796 532 ) ( 2132 1796 533 ) 64_brown_3 [ -1 0 0 -12 ] [ 0 0 -1 0 ] 0 1 1
-( 2132 1796 532 ) ( 2132 1796 533 ) ( 2132 1797 532 ) 64_brown_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 3
-{
-( 2156 1820 528 ) ( 2156 1821 528 ) ( 2156 1820 529 ) 64_brown_3 [ 0 -1 0 28 ] [ 0 0 -1 0 ] 0 1 1
-( 2156 1820 528 ) ( 2156 1820 529 ) ( 2157 1820 528 ) 64_brown_3 [ 1 0 0 48 ] [ 0 0 -1 0 ] 0 1 1
-( 2156 1820 528 ) ( 2157 1820 528 ) ( 2156 1821 528 ) 64_brown_3 [ -1 0 0 -48 ] [ 0 -1 0 28 ] 0 1 1
-( 2160 1824 552 ) ( 2160 1825 552 ) ( 2161 1824 552 ) 64_brown_3 [ 1 0 0 48 ] [ 0 -1 0 28 ] 0 1 1
-( 2160 1824 532 ) ( 2161 1824 532 ) ( 2160 1824 533 ) 64_brown_3 [ -1 0 0 -48 ] [ 0 0 -1 0 ] 0 1 1
-( 2160 1824 532 ) ( 2160 1824 533 ) ( 2160 1825 532 ) 64_brown_3 [ 0 1 0 -28 ] [ 0 0 -1 0 ] 0 1 1
-}
-// brush 4
-{
-( 2128 1792 552 ) ( 2128 1793 552 ) ( 2128 1792 553 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 24 ] 0 1 1
-( 2128 1792 552 ) ( 2128 1792 553 ) ( 2129 1792 552 ) 64_brown_3 [ 1 0 0 12 ] [ 0 0 -1 24 ] 0 1 1
-( 2128 1792 552 ) ( 2129 1792 552 ) ( 2128 1793 552 ) 64_brown_3 [ -1 0 0 -12 ] [ 0 -1 0 0 ] 0 1 1
-( 2132 1796 556 ) ( 2132 1797 556 ) ( 2133 1796 556 ) 64_brown_3 [ 1 0 0 12 ] [ 0 -1 0 0 ] 0 1 1
-( 2132 1824 556 ) ( 2133 1824 556 ) ( 2132 1824 557 ) 64_brown_3 [ -1 0 0 -12 ] [ 0 0 -1 24 ] 0 1 1
-( 2160 1796 556 ) ( 2160 1796 557 ) ( 2160 1797 556 ) 64_brown_3 [ 0 1 0 0 ] [ 0 0 -1 24 ] 0 1 1
-}
-}
-// entity 160
-{
-"classname" "item_shells"
-"origin" "2128 1792 556"
-"spawnflags" "1"
-}
-// entity 161
-{
-"classname" "trigger_once"
-"target" "SMCFallingPlatform"
-"targetname" ""
-"delay" "0"
-// brush 0
-{
-( -1888 3040 1104 ) ( -1888 3041 1104 ) ( -1888 3040 1105 ) trigger [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1904 3056 1104 ) ( -1904 3056 1105 ) ( -1903 3056 1104 ) trigger [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1904 3040 1104 ) ( -1903 3040 1104 ) ( -1904 3041 1104 ) trigger [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1680 3264 1168 ) ( -1680 3265 1168 ) ( -1679 3264 1168 ) trigger [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1680 3248 1120 ) ( -1679 3248 1120 ) ( -1680 3248 1121 ) trigger [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1696 3264 1120 ) ( -1696 3264 1121 ) ( -1696 3265 1120 ) trigger [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 162
-{
-"classname" "func_door"
-"angle" "-2"
-"wait" "-1"
-"targetname" "SMCFallingPlatform"
-"lip" "-1000"
-"speed" "350"
-"sounds" "1"
-// brush 0
-{
-( -1904 3232 1088 ) ( -1904 3233 1088 ) ( -1904 3232 1089 ) 64_brown_3 [ 0 -1 0 0 ] [ 0 0 -1 16 ] 0 1 1
-( -1712 3040 1088 ) ( -1712 3040 1089 ) ( -1711 3040 1088 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 16 ] 0 1 1
-( -1712 3232 1088 ) ( -1711 3232 1088 ) ( -1712 3233 1088 ) 64_brown_3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1680 3264 1104 ) ( -1680 3265 1104 ) ( -1679 3264 1104 ) 64_brown_3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1680 3264 1104 ) ( -1679 3264 1104 ) ( -1680 3264 1105 ) 64_brown_3 [ -1 0 0 0 ] [ 0 0 -1 16 ] 0 1 1
-( -1680 3264 1104 ) ( -1680 3264 1105 ) ( -1680 3265 1104 ) 64_brown_3 [ 0 1 0 0 ] [ 0 0 -1 16 ] 0 1 1
-}
-}
-// entity 163
-{
-"classname" "item_rockets"
-"origin" "-752 2544 816"
-"spawnflags" "1"
-}
-// entity 164
-{
-"classname" "trigger_once"
-"target" "SMCFallingPlat2"
-"targetname" ""
-"delay" "0"
-// brush 0
-{
-( -1904 2656 816 ) ( -1904 2657 816 ) ( -1904 2656 817 ) trigger [ 0 -1 0 0 ] [ 0 0 -1 -32 ] 0 1 1
-( -1904 2672 816 ) ( -1904 2672 817 ) ( -1903 2672 816 ) trigger [ 1 0 0 0 ] [ 0 0 -1 -32 ] 0 1 1
-( -1904 2656 816 ) ( -1903 2656 816 ) ( -1904 2657 816 ) trigger [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1680 2880 864 ) ( -1680 2881 864 ) ( -1679 2880 864 ) trigger [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1680 2912 832 ) ( -1679 2912 832 ) ( -1680 2912 833 ) trigger [ -1 0 0 0 ] [ 0 0 -1 -32 ] 0 1 1
-( -1696 2880 832 ) ( -1696 2880 833 ) ( -1696 2881 832 ) trigger [ 0 1 0 0 ] [ 0 0 -1 -32 ] 0 1 1
-}
-}
-// entity 165
-{
-"classname" "monster_enforcer"
-"origin" "-2480 3184 856"
-"spawnflags" "1"
-}
-// entity 166
-{
-"classname" "monster_enforcer"
-"origin" "-2480 2784 856"
-"spawnflags" "1"
-}
-// entity 167
-{
-"classname" "monster_enforcer"
-"origin" "-1600 3152 1160"
-"targetname" "ORoof"
-"spawnflags" "1"
-}
-// entity 168
-{
-"classname" "func_door"
-"angle" "-2"
-"lip" "-1000"
-"speed" "350"
-"targetname" "SMCFallingPlat2"
-"sounds" "1"
-"wait" "-1"
-// brush 0
-{
-( -1920 2656 800 ) ( -1920 2657 800 ) ( -1920 2656 801 ) 64_grey_1 [ 0 -1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1920 2656 800 ) ( -1920 2656 801 ) ( -1919 2656 800 ) 64_brown_3 [ 1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1920 2656 800 ) ( -1919 2656 800 ) ( -1920 2657 800 ) 64_brown_3 [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1680 2976 816 ) ( -1680 2977 816 ) ( -1679 2976 816 ) 64_brown_3 [ 1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1680 2976 816 ) ( -1679 2976 816 ) ( -1680 2976 817 ) 64_brown_3 [ -1 0 0 0 ] [ 0 0 -1 0 ] 0 1 1
-( -1680 2976 816 ) ( -1680 2976 817 ) ( -1680 2977 816 ) 64_brown_3 [ 0 1 0 0 ] [ 0 0 -1 0 ] 0 1 1
-}
-}
-// entity 169
-{
-"classname" "func_door"
-"angle" "-2"
-"targetname" "SMCFallingPlat2"
-"lip" "-1000"
-"speed" "350"
-"wait" "-1"
-"sounds" "1"
-// brush 0
-{
-( -1920 3072 768 ) ( -1920 3073 768 ) ( -1920 3072 769 ) {tile0339 [ 0 -1 0 107.78955 ] [ 0 0 -1 0 ] 0 0.95 1.5
-( -1920 2659 768 ) ( -1920 2659 769 ) ( -1919 2659 768 ) hintskip [ 1 0 0 0 ] [ 0 0 -1 -16 ] 0 1 1
-( -1920 3072 817 ) ( -1919 3072 817 ) ( -1920 3073 817 ) hintskip [ -1 0 0 0 ] [ 0 -1 0 0 ] 0 1 1
-( -1904 3200 864 ) ( -1904 3201 864 ) ( -1903 3200 864 ) hintskip [ -4.371139006309477e-08 0.999999999999999 0 36 ] [ 0.999999999999999 4.371139006309477e-08 0 -45.50952 ] 270 1 2.2681885
-( -1920 2976 816 ) ( -1792 2976 864 ) ( -1920 2976 864 ) hintskip [ -1 0 0 0 ] [ 0 0 -1 -16 ] 0 1 1
-( -1904 3200 784 ) ( -1904 3200 785 ) ( -1904 3201 784 ) {tile0339 [ 0 -1 0 107.78955 ] [ 0 0 -1 0 ] 0 0.95 1.5
-}
-}
-// entity 170
-{
-"classname" "monster_knight"
-"origin" "-1904 2528 552"
-"targetname" "SMCFallingPlat2"
-"spawnflags" "1"
-}
-// entity 171
-{
-"classname" "monster_dog"
-"origin" "-1824 2496 552"
-"angle" "90"
-"targetname" "SMCFallingPlat2"
-"spawnflags" "1"
-}
-// entity 172
-{
-"classname" "monster_dog"
-"origin" "-1904 2400 552"
-"angle" "90"
-"targetname" "SMCFallingPlat2"
-"spawnflags" "1"
-}
-// entity 173
-{
-"classname" "monster_dog"
-"origin" "-1824 2336 552"
-"targetname" "SMCFallingPlat2"
-"spawnflags" "1"
-"angle" "90"
-}
-// entity 174
-{
-"classname" "item_shells"
-"origin" "-1136 2928 1104"
-"spawnflags" "1"
-}
-// entity 175
-{
-"classname" "item_health"
-"origin" "-1728 2672 528"
-"spawnflags" "0"
-}
-// entity 176
-{
-"classname" "item_health"
-"origin" "-2656 2672 528"
-}
-// entity 177
-{
-"classname" "monster_demon1"
-"origin" "-2176 1712 552"
-"angle" "90"
-}
-// entity 178
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2108 2800 540 ) ( -2108 2801 540 ) ( -2108 2800 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -1984 2784 536 ) ( -1985 2784 536 ) ( -1984 2784 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -1984 2784 536 ) ( -1984 2785 536 ) ( -1985 2784 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2000 2800 540 ) ( -2001 2800 540 ) ( -2000 2801 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2000 2800 540 ) ( -2000 2800 541 ) ( -2001 2800 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -1988 2784 536 ) ( -1988 2784 537 ) ( -1988 2785 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2108 2800 544 ) ( -2108 2801 544 ) ( -2108 2800 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -1984 2796 540 ) ( -1985 2796 540 ) ( -1984 2796 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -1984 2796 540 ) ( -1984 2797 540 ) ( -1985 2796 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2000 2800 560 ) ( -2001 2800 560 ) ( -2000 2801 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2000 2800 544 ) ( -2000 2800 545 ) ( -2001 2800 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -1988 2796 540 ) ( -1988 2796 541 ) ( -1988 2797 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2112 2788 532 ) ( -2112 2789 532 ) ( -2112 2788 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -1996 2784 528 ) ( -1997 2784 528 ) ( -1996 2784 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -1996 2784 528 ) ( -1996 2785 528 ) ( -1997 2784 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2000 2788 548 ) ( -2001 2788 548 ) ( -2000 2789 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2000 2800 532 ) ( -2000 2800 533 ) ( -2001 2800 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2108 2784 528 ) ( -2108 2784 529 ) ( -2108 2785 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -1988 2788 532 ) ( -1988 2789 532 ) ( -1988 2788 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -1872 2784 528 ) ( -1873 2784 528 ) ( -1872 2784 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -1872 2784 528 ) ( -1872 2785 528 ) ( -1873 2784 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -1876 2788 548 ) ( -1877 2788 548 ) ( -1876 2789 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -1876 2800 532 ) ( -1876 2800 533 ) ( -1877 2800 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -1984 2784 528 ) ( -1984 2784 529 ) ( -1984 2785 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 179
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2108 2752 540 ) ( -2108 2753 540 ) ( -2108 2752 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -1984 2736 536 ) ( -1985 2736 536 ) ( -1984 2736 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -1984 2736 536 ) ( -1984 2737 536 ) ( -1985 2736 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2000 2752 540 ) ( -2001 2752 540 ) ( -2000 2753 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2000 2752 540 ) ( -2000 2752 541 ) ( -2001 2752 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -1988 2736 536 ) ( -1988 2736 537 ) ( -1988 2737 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2108 2752 544 ) ( -2108 2753 544 ) ( -2108 2752 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -1984 2748 540 ) ( -1985 2748 540 ) ( -1984 2748 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -1984 2748 540 ) ( -1984 2749 540 ) ( -1985 2748 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2000 2752 560 ) ( -2001 2752 560 ) ( -2000 2753 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2000 2752 544 ) ( -2000 2752 545 ) ( -2001 2752 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -1988 2748 540 ) ( -1988 2748 541 ) ( -1988 2749 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2112 2740 532 ) ( -2112 2741 532 ) ( -2112 2740 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -1996 2736 528 ) ( -1997 2736 528 ) ( -1996 2736 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -1996 2736 528 ) ( -1996 2737 528 ) ( -1997 2736 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2000 2740 548 ) ( -2001 2740 548 ) ( -2000 2741 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2000 2752 532 ) ( -2000 2752 533 ) ( -2001 2752 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2108 2736 528 ) ( -2108 2736 529 ) ( -2108 2737 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -1988 2740 532 ) ( -1988 2741 532 ) ( -1988 2740 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -1872 2736 528 ) ( -1873 2736 528 ) ( -1872 2736 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -1872 2736 528 ) ( -1872 2737 528 ) ( -1873 2736 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -1876 2740 548 ) ( -1877 2740 548 ) ( -1876 2741 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -1876 2752 532 ) ( -1876 2752 533 ) ( -1877 2752 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -1984 2736 528 ) ( -1984 2736 529 ) ( -1984 2737 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 180
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2752 540 ) ( -2364 2753 540 ) ( -2364 2752 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2736 536 ) ( -2241 2736 536 ) ( -2240 2736 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2736 536 ) ( -2240 2737 536 ) ( -2241 2736 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2752 540 ) ( -2257 2752 540 ) ( -2256 2753 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2752 540 ) ( -2256 2752 541 ) ( -2257 2752 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2736 536 ) ( -2244 2736 537 ) ( -2244 2737 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2752 544 ) ( -2364 2753 544 ) ( -2364 2752 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2748 540 ) ( -2241 2748 540 ) ( -2240 2748 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2748 540 ) ( -2240 2749 540 ) ( -2241 2748 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2752 560 ) ( -2257 2752 560 ) ( -2256 2753 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2752 544 ) ( -2256 2752 545 ) ( -2257 2752 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2748 540 ) ( -2244 2748 541 ) ( -2244 2749 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2740 532 ) ( -2368 2741 532 ) ( -2368 2740 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2736 528 ) ( -2253 2736 528 ) ( -2252 2736 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2736 528 ) ( -2252 2737 528 ) ( -2253 2736 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2740 548 ) ( -2257 2740 548 ) ( -2256 2741 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2752 532 ) ( -2256 2752 533 ) ( -2257 2752 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2736 528 ) ( -2364 2736 529 ) ( -2364 2737 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2740 532 ) ( -2244 2741 532 ) ( -2244 2740 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2736 528 ) ( -2129 2736 528 ) ( -2128 2736 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2736 528 ) ( -2128 2737 528 ) ( -2129 2736 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -2132 2740 548 ) ( -2133 2740 548 ) ( -2132 2741 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -2132 2752 532 ) ( -2132 2752 533 ) ( -2133 2752 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2736 528 ) ( -2240 2736 529 ) ( -2240 2737 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 181
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2592 540 ) ( -2364 2593 540 ) ( -2364 2592 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2576 536 ) ( -2241 2576 536 ) ( -2240 2576 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2576 536 ) ( -2240 2577 536 ) ( -2241 2576 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2592 540 ) ( -2257 2592 540 ) ( -2256 2593 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2592 540 ) ( -2256 2592 541 ) ( -2257 2592 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2576 536 ) ( -2244 2576 537 ) ( -2244 2577 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2592 544 ) ( -2364 2593 544 ) ( -2364 2592 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2588 540 ) ( -2241 2588 540 ) ( -2240 2588 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2588 540 ) ( -2240 2589 540 ) ( -2241 2588 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2592 560 ) ( -2257 2592 560 ) ( -2256 2593 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2592 544 ) ( -2256 2592 545 ) ( -2257 2592 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2588 540 ) ( -2244 2588 541 ) ( -2244 2589 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2580 532 ) ( -2368 2581 532 ) ( -2368 2580 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2576 528 ) ( -2253 2576 528 ) ( -2252 2576 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2576 528 ) ( -2252 2577 528 ) ( -2253 2576 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2580 548 ) ( -2257 2580 548 ) ( -2256 2581 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2592 532 ) ( -2256 2592 533 ) ( -2257 2592 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2576 528 ) ( -2364 2576 529 ) ( -2364 2577 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2580 532 ) ( -2244 2581 532 ) ( -2244 2580 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2576 528 ) ( -2129 2576 528 ) ( -2128 2576 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2576 528 ) ( -2128 2577 528 ) ( -2129 2576 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -2132 2580 548 ) ( -2133 2580 548 ) ( -2132 2581 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -2132 2592 532 ) ( -2132 2592 533 ) ( -2133 2592 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2576 528 ) ( -2240 2576 529 ) ( -2240 2577 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 182
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2544 540 ) ( -2364 2545 540 ) ( -2364 2544 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2528 536 ) ( -2241 2528 536 ) ( -2240 2528 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2528 536 ) ( -2240 2529 536 ) ( -2241 2528 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2544 540 ) ( -2257 2544 540 ) ( -2256 2545 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2544 540 ) ( -2256 2544 541 ) ( -2257 2544 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2528 536 ) ( -2244 2528 537 ) ( -2244 2529 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2544 544 ) ( -2364 2545 544 ) ( -2364 2544 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2540 540 ) ( -2241 2540 540 ) ( -2240 2540 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2540 540 ) ( -2240 2541 540 ) ( -2241 2540 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2544 560 ) ( -2257 2544 560 ) ( -2256 2545 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2544 544 ) ( -2256 2544 545 ) ( -2257 2544 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2540 540 ) ( -2244 2540 541 ) ( -2244 2541 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2532 532 ) ( -2368 2533 532 ) ( -2368 2532 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -20 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2528 528 ) ( -2253 2528 528 ) ( -2252 2528 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2528 528 ) ( -2252 2529 528 ) ( -2253 2528 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -20 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2532 548 ) ( -2257 2532 548 ) ( -2256 2533 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 20 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2544 532 ) ( -2256 2544 533 ) ( -2257 2544 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2528 528 ) ( -2364 2528 529 ) ( -2364 2529 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 20 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2532 532 ) ( -2244 2533 532 ) ( -2244 2532 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -20 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2528 528 ) ( -2129 2528 528 ) ( -2128 2528 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2528 528 ) ( -2128 2529 528 ) ( -2129 2528 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -20 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 2532 548 ) ( -2133 2532 548 ) ( -2132 2533 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 20 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 2544 532 ) ( -2132 2544 533 ) ( -2133 2544 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2528 528 ) ( -2240 2528 529 ) ( -2240 2529 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 20 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 183
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2496 540 ) ( -2364 2497 540 ) ( -2364 2496 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2480 536 ) ( -2241 2480 536 ) ( -2240 2480 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2480 536 ) ( -2240 2481 536 ) ( -2241 2480 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2496 540 ) ( -2257 2496 540 ) ( -2256 2497 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2496 540 ) ( -2256 2496 541 ) ( -2257 2496 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2480 536 ) ( -2244 2480 537 ) ( -2244 2481 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2496 544 ) ( -2364 2497 544 ) ( -2364 2496 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2492 540 ) ( -2241 2492 540 ) ( -2240 2492 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2492 540 ) ( -2240 2493 540 ) ( -2241 2492 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2496 560 ) ( -2257 2496 560 ) ( -2256 2497 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2496 544 ) ( -2256 2496 545 ) ( -2257 2496 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2492 540 ) ( -2244 2492 541 ) ( -2244 2493 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2484 532 ) ( -2368 2485 532 ) ( -2368 2484 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2480 528 ) ( -2253 2480 528 ) ( -2252 2480 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2480 528 ) ( -2252 2481 528 ) ( -2253 2480 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2484 548 ) ( -2257 2484 548 ) ( -2256 2485 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2496 532 ) ( -2256 2496 533 ) ( -2257 2496 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2480 528 ) ( -2364 2480 529 ) ( -2364 2481 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2484 532 ) ( -2244 2485 532 ) ( -2244 2484 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2480 528 ) ( -2129 2480 528 ) ( -2128 2480 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2480 528 ) ( -2128 2481 528 ) ( -2129 2480 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 2484 548 ) ( -2133 2484 548 ) ( -2132 2485 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 2496 532 ) ( -2132 2496 533 ) ( -2133 2496 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2480 528 ) ( -2240 2480 529 ) ( -2240 2481 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 184
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2448 540 ) ( -2364 2449 540 ) ( -2364 2448 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2432 536 ) ( -2241 2432 536 ) ( -2240 2432 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2432 536 ) ( -2240 2433 536 ) ( -2241 2432 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2448 540 ) ( -2257 2448 540 ) ( -2256 2449 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2448 540 ) ( -2256 2448 541 ) ( -2257 2448 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2432 536 ) ( -2244 2432 537 ) ( -2244 2433 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2448 544 ) ( -2364 2449 544 ) ( -2364 2448 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2444 540 ) ( -2241 2444 540 ) ( -2240 2444 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2444 540 ) ( -2240 2445 540 ) ( -2241 2444 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2448 560 ) ( -2257 2448 560 ) ( -2256 2449 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2448 544 ) ( -2256 2448 545 ) ( -2257 2448 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2444 540 ) ( -2244 2444 541 ) ( -2244 2445 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2436 532 ) ( -2368 2437 532 ) ( -2368 2436 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -52 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2432 528 ) ( -2253 2432 528 ) ( -2252 2432 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2432 528 ) ( -2252 2433 528 ) ( -2253 2432 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -52 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2436 548 ) ( -2257 2436 548 ) ( -2256 2437 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 52 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2448 532 ) ( -2256 2448 533 ) ( -2257 2448 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2432 528 ) ( -2364 2432 529 ) ( -2364 2433 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 52 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2436 532 ) ( -2244 2437 532 ) ( -2244 2436 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -52 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2432 528 ) ( -2129 2432 528 ) ( -2128 2432 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2432 528 ) ( -2128 2433 528 ) ( -2129 2432 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -52 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 2436 548 ) ( -2133 2436 548 ) ( -2132 2437 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 52 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 2448 532 ) ( -2132 2448 533 ) ( -2133 2448 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2432 528 ) ( -2240 2432 529 ) ( -2240 2433 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 52 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 185
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2400 540 ) ( -2364 2401 540 ) ( -2364 2400 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2384 536 ) ( -2241 2384 536 ) ( -2240 2384 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2384 536 ) ( -2240 2385 536 ) ( -2241 2384 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2400 540 ) ( -2257 2400 540 ) ( -2256 2401 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2400 540 ) ( -2256 2400 541 ) ( -2257 2400 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2384 536 ) ( -2244 2384 537 ) ( -2244 2385 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2400 544 ) ( -2364 2401 544 ) ( -2364 2400 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2396 540 ) ( -2241 2396 540 ) ( -2240 2396 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2396 540 ) ( -2240 2397 540 ) ( -2241 2396 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2400 560 ) ( -2257 2400 560 ) ( -2256 2401 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2400 544 ) ( -2256 2400 545 ) ( -2257 2400 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2396 540 ) ( -2244 2396 541 ) ( -2244 2397 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2388 532 ) ( -2368 2389 532 ) ( -2368 2388 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2384 528 ) ( -2253 2384 528 ) ( -2252 2384 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2384 528 ) ( -2252 2385 528 ) ( -2253 2384 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2388 548 ) ( -2257 2388 548 ) ( -2256 2389 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2400 532 ) ( -2256 2400 533 ) ( -2257 2400 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2384 528 ) ( -2364 2384 529 ) ( -2364 2385 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2388 532 ) ( -2244 2389 532 ) ( -2244 2388 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2384 528 ) ( -2129 2384 528 ) ( -2128 2384 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2384 528 ) ( -2128 2385 528 ) ( -2129 2384 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 2388 548 ) ( -2133 2388 548 ) ( -2132 2389 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 2400 532 ) ( -2132 2400 533 ) ( -2133 2400 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2384 528 ) ( -2240 2384 529 ) ( -2240 2385 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 186
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2352 540 ) ( -2364 2353 540 ) ( -2364 2352 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 56 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2336 536 ) ( -2241 2336 536 ) ( -2240 2336 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2336 536 ) ( -2240 2337 536 ) ( -2241 2336 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 56 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2352 540 ) ( -2257 2352 540 ) ( -2256 2353 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -56 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2352 540 ) ( -2256 2352 541 ) ( -2257 2352 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2336 536 ) ( -2244 2336 537 ) ( -2244 2337 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -56 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2352 544 ) ( -2364 2353 544 ) ( -2364 2352 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 56 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2348 540 ) ( -2241 2348 540 ) ( -2240 2348 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2348 540 ) ( -2240 2349 540 ) ( -2241 2348 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 56 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2352 560 ) ( -2257 2352 560 ) ( -2256 2353 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -56 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2352 544 ) ( -2256 2352 545 ) ( -2257 2352 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2348 540 ) ( -2244 2348 541 ) ( -2244 2349 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -56 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2340 532 ) ( -2368 2341 532 ) ( -2368 2340 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2336 528 ) ( -2253 2336 528 ) ( -2252 2336 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2336 528 ) ( -2252 2337 528 ) ( -2253 2336 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2340 548 ) ( -2257 2340 548 ) ( -2256 2341 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2352 532 ) ( -2256 2352 533 ) ( -2257 2352 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2336 528 ) ( -2364 2336 529 ) ( -2364 2337 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2340 532 ) ( -2244 2341 532 ) ( -2244 2340 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2336 528 ) ( -2129 2336 528 ) ( -2128 2336 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2336 528 ) ( -2128 2337 528 ) ( -2129 2336 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 2340 548 ) ( -2133 2340 548 ) ( -2132 2341 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 2352 532 ) ( -2132 2352 533 ) ( -2133 2352 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2336 528 ) ( -2240 2336 529 ) ( -2240 2337 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 187
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2304 540 ) ( -2364 2305 540 ) ( -2364 2304 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2288 536 ) ( -2241 2288 536 ) ( -2240 2288 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2288 536 ) ( -2240 2289 536 ) ( -2241 2288 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2304 540 ) ( -2257 2304 540 ) ( -2256 2305 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2304 540 ) ( -2256 2304 541 ) ( -2257 2304 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2288 536 ) ( -2244 2288 537 ) ( -2244 2289 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2304 544 ) ( -2364 2305 544 ) ( -2364 2304 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2300 540 ) ( -2241 2300 540 ) ( -2240 2300 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2300 540 ) ( -2240 2301 540 ) ( -2241 2300 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2304 560 ) ( -2257 2304 560 ) ( -2256 2305 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2304 544 ) ( -2256 2304 545 ) ( -2257 2304 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2300 540 ) ( -2244 2300 541 ) ( -2244 2301 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2292 532 ) ( -2368 2293 532 ) ( -2368 2292 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2288 528 ) ( -2253 2288 528 ) ( -2252 2288 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2288 528 ) ( -2252 2289 528 ) ( -2253 2288 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2292 548 ) ( -2257 2292 548 ) ( -2256 2293 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2304 532 ) ( -2256 2304 533 ) ( -2257 2304 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2288 528 ) ( -2364 2288 529 ) ( -2364 2289 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2292 532 ) ( -2244 2293 532 ) ( -2244 2292 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2288 528 ) ( -2129 2288 528 ) ( -2128 2288 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2288 528 ) ( -2128 2289 528 ) ( -2129 2288 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -2132 2292 548 ) ( -2133 2292 548 ) ( -2132 2293 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -2132 2304 532 ) ( -2132 2304 533 ) ( -2133 2304 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2288 528 ) ( -2240 2288 529 ) ( -2240 2289 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 188
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2256 540 ) ( -2364 2257 540 ) ( -2364 2256 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2240 536 ) ( -2241 2240 536 ) ( -2240 2240 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2240 536 ) ( -2240 2241 536 ) ( -2241 2240 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2256 540 ) ( -2257 2256 540 ) ( -2256 2257 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2256 540 ) ( -2256 2256 541 ) ( -2257 2256 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2240 536 ) ( -2244 2240 537 ) ( -2244 2241 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2256 544 ) ( -2364 2257 544 ) ( -2364 2256 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2252 540 ) ( -2241 2252 540 ) ( -2240 2252 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2252 540 ) ( -2240 2253 540 ) ( -2241 2252 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2256 560 ) ( -2257 2256 560 ) ( -2256 2257 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2256 544 ) ( -2256 2256 545 ) ( -2257 2256 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2252 540 ) ( -2244 2252 541 ) ( -2244 2253 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2244 532 ) ( -2368 2245 532 ) ( -2368 2244 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2240 528 ) ( -2253 2240 528 ) ( -2252 2240 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2240 528 ) ( -2252 2241 528 ) ( -2253 2240 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2244 548 ) ( -2257 2244 548 ) ( -2256 2245 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2256 532 ) ( -2256 2256 533 ) ( -2257 2256 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2240 528 ) ( -2364 2240 529 ) ( -2364 2241 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2244 532 ) ( -2244 2245 532 ) ( -2244 2244 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2240 528 ) ( -2129 2240 528 ) ( -2128 2240 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2240 528 ) ( -2128 2241 528 ) ( -2129 2240 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -2132 2244 548 ) ( -2133 2244 548 ) ( -2132 2245 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -2132 2256 532 ) ( -2132 2256 533 ) ( -2133 2256 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2240 528 ) ( -2240 2240 529 ) ( -2240 2241 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 189
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2848 540 ) ( -2364 2849 540 ) ( -2364 2848 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2832 536 ) ( -2241 2832 536 ) ( -2240 2832 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2832 536 ) ( -2240 2833 536 ) ( -2241 2832 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2848 540 ) ( -2257 2848 540 ) ( -2256 2849 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2848 540 ) ( -2256 2848 541 ) ( -2257 2848 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2832 536 ) ( -2244 2832 537 ) ( -2244 2833 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2848 544 ) ( -2364 2849 544 ) ( -2364 2848 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2844 540 ) ( -2241 2844 540 ) ( -2240 2844 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2844 540 ) ( -2240 2845 540 ) ( -2241 2844 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2848 560 ) ( -2257 2848 560 ) ( -2256 2849 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2848 544 ) ( -2256 2848 545 ) ( -2257 2848 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2844 540 ) ( -2244 2844 541 ) ( -2244 2845 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2836 532 ) ( -2368 2837 532 ) ( -2368 2836 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2832 528 ) ( -2253 2832 528 ) ( -2252 2832 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2832 528 ) ( -2252 2833 528 ) ( -2253 2832 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2836 548 ) ( -2257 2836 548 ) ( -2256 2837 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2848 532 ) ( -2256 2848 533 ) ( -2257 2848 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2832 528 ) ( -2364 2832 529 ) ( -2364 2833 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2836 532 ) ( -2244 2837 532 ) ( -2244 2836 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2832 528 ) ( -2129 2832 528 ) ( -2128 2832 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2832 528 ) ( -2128 2833 528 ) ( -2129 2832 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 2836 548 ) ( -2133 2836 548 ) ( -2132 2837 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 2848 532 ) ( -2132 2848 533 ) ( -2133 2848 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2832 528 ) ( -2240 2832 529 ) ( -2240 2833 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 190
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2896 540 ) ( -2364 2897 540 ) ( -2364 2896 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2880 536 ) ( -2241 2880 536 ) ( -2240 2880 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2880 536 ) ( -2240 2881 536 ) ( -2241 2880 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2896 540 ) ( -2257 2896 540 ) ( -2256 2897 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2896 540 ) ( -2256 2896 541 ) ( -2257 2896 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2880 536 ) ( -2244 2880 537 ) ( -2244 2881 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2896 544 ) ( -2364 2897 544 ) ( -2364 2896 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2892 540 ) ( -2241 2892 540 ) ( -2240 2892 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2892 540 ) ( -2240 2893 540 ) ( -2241 2892 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2896 560 ) ( -2257 2896 560 ) ( -2256 2897 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2896 544 ) ( -2256 2896 545 ) ( -2257 2896 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2892 540 ) ( -2244 2892 541 ) ( -2244 2893 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2884 532 ) ( -2368 2885 532 ) ( -2368 2884 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2880 528 ) ( -2253 2880 528 ) ( -2252 2880 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2880 528 ) ( -2252 2881 528 ) ( -2253 2880 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2884 548 ) ( -2257 2884 548 ) ( -2256 2885 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2896 532 ) ( -2256 2896 533 ) ( -2257 2896 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2880 528 ) ( -2364 2880 529 ) ( -2364 2881 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2884 532 ) ( -2244 2885 532 ) ( -2244 2884 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2880 528 ) ( -2129 2880 528 ) ( -2128 2880 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2880 528 ) ( -2128 2881 528 ) ( -2129 2880 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -2132 2884 548 ) ( -2133 2884 548 ) ( -2132 2885 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -2132 2896 532 ) ( -2132 2896 533 ) ( -2133 2896 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2880 528 ) ( -2240 2880 529 ) ( -2240 2881 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 191
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2944 540 ) ( -2364 2945 540 ) ( -2364 2944 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2928 536 ) ( -2241 2928 536 ) ( -2240 2928 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2928 536 ) ( -2240 2929 536 ) ( -2241 2928 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2944 540 ) ( -2257 2944 540 ) ( -2256 2945 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2944 540 ) ( -2256 2944 541 ) ( -2257 2944 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2928 536 ) ( -2244 2928 537 ) ( -2244 2929 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2944 544 ) ( -2364 2945 544 ) ( -2364 2944 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2940 540 ) ( -2241 2940 540 ) ( -2240 2940 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2940 540 ) ( -2240 2941 540 ) ( -2241 2940 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2944 560 ) ( -2257 2944 560 ) ( -2256 2945 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2944 544 ) ( -2256 2944 545 ) ( -2257 2944 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2940 540 ) ( -2244 2940 541 ) ( -2244 2941 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2932 532 ) ( -2368 2933 532 ) ( -2368 2932 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 60 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2928 528 ) ( -2253 2928 528 ) ( -2252 2928 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2928 528 ) ( -2252 2929 528 ) ( -2253 2928 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 60 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2932 548 ) ( -2257 2932 548 ) ( -2256 2933 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -60 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2944 532 ) ( -2256 2944 533 ) ( -2257 2944 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2928 528 ) ( -2364 2928 529 ) ( -2364 2929 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -60 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2932 532 ) ( -2244 2933 532 ) ( -2244 2932 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 60 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2928 528 ) ( -2129 2928 528 ) ( -2128 2928 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2928 528 ) ( -2128 2929 528 ) ( -2129 2928 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 60 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -2132 2932 548 ) ( -2133 2932 548 ) ( -2132 2933 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -60 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -2132 2944 532 ) ( -2132 2944 533 ) ( -2133 2944 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2928 528 ) ( -2240 2928 529 ) ( -2240 2929 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -60 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 192
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2992 540 ) ( -2364 2993 540 ) ( -2364 2992 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2976 536 ) ( -2241 2976 536 ) ( -2240 2976 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2976 536 ) ( -2240 2977 536 ) ( -2241 2976 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2992 540 ) ( -2257 2992 540 ) ( -2256 2993 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2992 540 ) ( -2256 2992 541 ) ( -2257 2992 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2976 536 ) ( -2244 2976 537 ) ( -2244 2977 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2992 544 ) ( -2364 2993 544 ) ( -2364 2992 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2988 540 ) ( -2241 2988 540 ) ( -2240 2988 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2988 540 ) ( -2240 2989 540 ) ( -2241 2988 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2992 560 ) ( -2257 2992 560 ) ( -2256 2993 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2992 544 ) ( -2256 2992 545 ) ( -2257 2992 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2988 540 ) ( -2244 2988 541 ) ( -2244 2989 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2980 532 ) ( -2368 2981 532 ) ( -2368 2980 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -20 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2976 528 ) ( -2253 2976 528 ) ( -2252 2976 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2976 528 ) ( -2252 2977 528 ) ( -2253 2976 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -20 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 2980 548 ) ( -2257 2980 548 ) ( -2256 2981 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 20 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 2992 532 ) ( -2256 2992 533 ) ( -2257 2992 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2976 528 ) ( -2364 2976 529 ) ( -2364 2977 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 20 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2980 532 ) ( -2244 2981 532 ) ( -2244 2980 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -20 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2976 528 ) ( -2129 2976 528 ) ( -2128 2976 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2976 528 ) ( -2128 2977 528 ) ( -2129 2976 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -20 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -2132 2980 548 ) ( -2133 2980 548 ) ( -2132 2981 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 20 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -2132 2992 532 ) ( -2132 2992 533 ) ( -2133 2992 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2976 528 ) ( -2240 2976 529 ) ( -2240 2977 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 20 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 193
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 3040 540 ) ( -2364 3041 540 ) ( -2364 3040 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 3024 536 ) ( -2241 3024 536 ) ( -2240 3024 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 3024 536 ) ( -2240 3025 536 ) ( -2241 3024 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 3040 540 ) ( -2257 3040 540 ) ( -2256 3041 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 3040 540 ) ( -2256 3040 541 ) ( -2257 3040 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 3024 536 ) ( -2244 3024 537 ) ( -2244 3025 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 3040 544 ) ( -2364 3041 544 ) ( -2364 3040 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 3036 540 ) ( -2241 3036 540 ) ( -2240 3036 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 3036 540 ) ( -2240 3037 540 ) ( -2241 3036 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 3040 560 ) ( -2257 3040 560 ) ( -2256 3041 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 3040 544 ) ( -2256 3040 545 ) ( -2257 3040 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 3036 540 ) ( -2244 3036 541 ) ( -2244 3037 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 3028 532 ) ( -2368 3029 532 ) ( -2368 3028 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 3024 528 ) ( -2253 3024 528 ) ( -2252 3024 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 3024 528 ) ( -2252 3025 528 ) ( -2253 3024 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 3028 548 ) ( -2257 3028 548 ) ( -2256 3029 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 3040 532 ) ( -2256 3040 533 ) ( -2257 3040 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 3024 528 ) ( -2364 3024 529 ) ( -2364 3025 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 3028 532 ) ( -2244 3029 532 ) ( -2244 3028 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 3024 528 ) ( -2129 3024 528 ) ( -2128 3024 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 3024 528 ) ( -2128 3025 528 ) ( -2129 3024 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 3028 548 ) ( -2133 3028 548 ) ( -2132 3029 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 3040 532 ) ( -2132 3040 533 ) ( -2133 3040 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 3024 528 ) ( -2240 3024 529 ) ( -2240 3025 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 194
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 3088 540 ) ( -2364 3089 540 ) ( -2364 3088 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 3072 536 ) ( -2241 3072 536 ) ( -2240 3072 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 3072 536 ) ( -2240 3073 536 ) ( -2241 3072 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 3088 540 ) ( -2257 3088 540 ) ( -2256 3089 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 3088 540 ) ( -2256 3088 541 ) ( -2257 3088 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 3072 536 ) ( -2244 3072 537 ) ( -2244 3073 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 3088 544 ) ( -2364 3089 544 ) ( -2364 3088 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 3084 540 ) ( -2241 3084 540 ) ( -2240 3084 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 3084 540 ) ( -2240 3085 540 ) ( -2241 3084 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 3088 560 ) ( -2257 3088 560 ) ( -2256 3089 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 3088 544 ) ( -2256 3088 545 ) ( -2257 3088 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 3084 540 ) ( -2244 3084 541 ) ( -2244 3085 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 3076 532 ) ( -2368 3077 532 ) ( -2368 3076 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 3072 528 ) ( -2253 3072 528 ) ( -2252 3072 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 3072 528 ) ( -2252 3073 528 ) ( -2253 3072 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 3076 548 ) ( -2257 3076 548 ) ( -2256 3077 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 3088 532 ) ( -2256 3088 533 ) ( -2257 3088 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 3072 528 ) ( -2364 3072 529 ) ( -2364 3073 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 3076 532 ) ( -2244 3077 532 ) ( -2244 3076 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 3072 528 ) ( -2129 3072 528 ) ( -2128 3072 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 3072 528 ) ( -2128 3073 528 ) ( -2129 3072 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -2132 3076 548 ) ( -2133 3076 548 ) ( -2132 3077 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -2132 3088 532 ) ( -2132 3088 533 ) ( -2133 3088 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 3072 528 ) ( -2240 3072 529 ) ( -2240 3073 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 195
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 3136 540 ) ( -2364 3137 540 ) ( -2364 3136 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 3120 536 ) ( -2241 3120 536 ) ( -2240 3120 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 3120 536 ) ( -2240 3121 536 ) ( -2241 3120 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 3136 540 ) ( -2257 3136 540 ) ( -2256 3137 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 3136 540 ) ( -2256 3136 541 ) ( -2257 3136 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 3120 536 ) ( -2244 3120 537 ) ( -2244 3121 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 3136 544 ) ( -2364 3137 544 ) ( -2364 3136 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 3132 540 ) ( -2241 3132 540 ) ( -2240 3132 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 3132 540 ) ( -2240 3133 540 ) ( -2241 3132 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 3136 560 ) ( -2257 3136 560 ) ( -2256 3137 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 3136 544 ) ( -2256 3136 545 ) ( -2257 3136 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 3132 540 ) ( -2244 3132 541 ) ( -2244 3133 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 3124 532 ) ( -2368 3125 532 ) ( -2368 3124 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 3120 528 ) ( -2253 3120 528 ) ( -2252 3120 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 3120 528 ) ( -2252 3121 528 ) ( -2253 3120 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 81.786804 1 1
-( -2256 3124 548 ) ( -2257 3124 548 ) ( -2256 3125 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -40 ] 278.2132 1 1
-( -2256 3136 532 ) ( -2256 3136 533 ) ( -2257 3136 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 3120 528 ) ( -2364 3120 529 ) ( -2364 3121 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 3124 532 ) ( -2244 3125 532 ) ( -2244 3124 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 3120 528 ) ( -2129 3120 528 ) ( -2128 3120 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 3120 528 ) ( -2128 3121 528 ) ( -2129 3120 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 81.786804 1 1
-( -2132 3124 548 ) ( -2133 3124 548 ) ( -2132 3125 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 -36 ] 278.2132 1 1
-( -2132 3136 532 ) ( -2132 3136 533 ) ( -2133 3136 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 36 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 3120 528 ) ( -2240 3120 529 ) ( -2240 3121 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 4 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 196
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2704 540 ) ( -2364 2705 540 ) ( -2364 2704 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2688 536 ) ( -2241 2688 536 ) ( -2240 2688 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2688 536 ) ( -2240 2689 536 ) ( -2241 2688 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2704 540 ) ( -2257 2704 540 ) ( -2256 2705 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2704 540 ) ( -2256 2704 541 ) ( -2257 2704 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2688 536 ) ( -2244 2688 537 ) ( -2244 2689 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2704 544 ) ( -2364 2705 544 ) ( -2364 2704 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2700 540 ) ( -2241 2700 540 ) ( -2240 2700 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2700 540 ) ( -2240 2701 540 ) ( -2241 2700 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2704 560 ) ( -2257 2704 560 ) ( -2256 2705 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2704 544 ) ( -2256 2704 545 ) ( -2257 2704 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2700 540 ) ( -2244 2700 541 ) ( -2244 2701 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2692 532 ) ( -2368 2693 532 ) ( -2368 2692 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2688 528 ) ( -2253 2688 528 ) ( -2252 2688 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2688 528 ) ( -2252 2689 528 ) ( -2253 2688 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2692 548 ) ( -2257 2692 548 ) ( -2256 2693 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2704 532 ) ( -2256 2704 533 ) ( -2257 2704 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2688 528 ) ( -2364 2688 529 ) ( -2364 2689 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2692 532 ) ( -2244 2693 532 ) ( -2244 2692 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2688 528 ) ( -2129 2688 528 ) ( -2128 2688 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2688 528 ) ( -2128 2689 528 ) ( -2129 2688 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 2692 548 ) ( -2133 2692 548 ) ( -2132 2693 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 2704 532 ) ( -2132 2704 533 ) ( -2133 2704 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2688 528 ) ( -2240 2688 529 ) ( -2240 2689 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -12 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 197
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2208 540 ) ( -2364 2209 540 ) ( -2364 2208 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2192 536 ) ( -2241 2192 536 ) ( -2240 2192 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2192 536 ) ( -2240 2193 536 ) ( -2241 2192 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2208 540 ) ( -2257 2208 540 ) ( -2256 2209 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2208 540 ) ( -2256 2208 541 ) ( -2257 2208 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2192 536 ) ( -2244 2192 537 ) ( -2244 2193 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2208 544 ) ( -2364 2209 544 ) ( -2364 2208 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2204 540 ) ( -2241 2204 540 ) ( -2240 2204 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2204 540 ) ( -2240 2205 540 ) ( -2241 2204 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2208 560 ) ( -2257 2208 560 ) ( -2256 2209 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2208 544 ) ( -2256 2208 545 ) ( -2257 2208 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2204 540 ) ( -2244 2204 541 ) ( -2244 2205 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -40 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2196 532 ) ( -2368 2197 532 ) ( -2368 2196 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2192 528 ) ( -2253 2192 528 ) ( -2252 2192 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2192 528 ) ( -2252 2193 528 ) ( -2253 2192 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2196 548 ) ( -2257 2196 548 ) ( -2256 2197 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2208 532 ) ( -2256 2208 533 ) ( -2257 2208 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2192 528 ) ( -2364 2192 529 ) ( -2364 2193 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2196 532 ) ( -2244 2197 532 ) ( -2244 2196 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2192 528 ) ( -2129 2192 528 ) ( -2128 2192 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2192 528 ) ( -2128 2193 528 ) ( -2129 2192 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 2196 548 ) ( -2133 2196 548 ) ( -2132 2197 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 2208 532 ) ( -2132 2208 533 ) ( -2133 2208 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2192 528 ) ( -2240 2192 529 ) ( -2240 2193 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-}
-// entity 198
-{
-"classname" "func_group"
-"_tb_type" "_tb_group"
-"_tb_name" "Pew"
-"_tb_id" "14"
-// brush 0
-{
-( -2364 2160 540 ) ( -2364 2161 540 ) ( -2364 2160 541 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2144 536 ) ( -2241 2144 536 ) ( -2240 2144 537 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2144 536 ) ( -2240 2145 536 ) ( -2241 2144 536 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2160 540 ) ( -2257 2160 540 ) ( -2256 2161 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2160 540 ) ( -2256 2160 541 ) ( -2257 2160 540 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2144 536 ) ( -2244 2144 537 ) ( -2244 2145 536 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 1
-{
-( -2364 2160 544 ) ( -2364 2161 544 ) ( -2364 2160 545 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 90 1 1
-( -2240 2156 540 ) ( -2241 2156 540 ) ( -2240 2156 541 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 216.86987 1 1
-( -2240 2156 540 ) ( -2240 2157 540 ) ( -2241 2156 540 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 -8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2160 560 ) ( -2257 2160 560 ) ( -2256 2161 560 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2160 544 ) ( -2256 2160 545 ) ( -2257 2160 544 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 143.1301 1 1
-( -2244 2156 540 ) ( -2244 2156 541 ) ( -2244 2157 540 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 8 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 -4 ] 270 1 1
-}
-// brush 2
-{
-( -2368 2148 532 ) ( -2368 2149 532 ) ( -2368 2148 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2252 2144 528 ) ( -2253 2144 528 ) ( -2252 2144 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2252 2144 528 ) ( -2252 2145 528 ) ( -2253 2144 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 81.786804 1 1
-( -2256 2148 548 ) ( -2257 2148 548 ) ( -2256 2149 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 24 ] 278.2132 1 1
-( -2256 2160 532 ) ( -2256 2160 533 ) ( -2257 2160 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -24 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2364 2144 528 ) ( -2364 2144 529 ) ( -2364 2145 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
-// brush 3
-{
-( -2244 2148 532 ) ( -2244 2149 532 ) ( -2244 2148 533 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 90 1 1
-( -2128 2144 528 ) ( -2129 2144 528 ) ( -2128 2144 529 ) 64_brown_3 [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 216.86987 1 1
-( -2128 2144 528 ) ( -2128 2145 528 ) ( -2129 2144 528 ) 64_brown_3 [ -4.3762129921295857e-16 -1 -9.43689570931383e-16 44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 81.786804 1 1
-( -2132 2148 548 ) ( -2133 2148 548 ) ( -2132 2149 548 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ 1 -4.3762129921295827e-16 -3.1389311486108247e-16 28 ] 278.2132 1 1
-( -2132 2160 532 ) ( -2132 2160 533 ) ( -2133 2160 532 ) 64_brown_3 [ -1 4.3762129921295827e-16 3.1389311486108247e-16 -28 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 143.1301 1 1
-( -2240 2144 528 ) ( -2240 2144 529 ) ( -2240 2145 528 ) 64_brown_3 [ 4.3762129921295857e-16 1 9.43689570931383e-16 -44 ] [ -3.1389311486108213e-16 9.992007221626409e-16 -1 0 ] 270 1 1
-}
 }
 <<<<<<< HEAD
 // entity 183
