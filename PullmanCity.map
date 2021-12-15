@@ -6,6 +6,8 @@
 "classname" "worldspawn"
 "wad" "C:/QuakeDev/wads/prototype_1_3.wad;C:/QuakeDev/id1/maps/CustomQuakeSingleplayer/City.wad"
 "light" "200"
+"message" "Pullman City"
+"sounds" "2"
 // brush 0
 {
 ( -112 -2272 -16 ) ( -112 -2271 -16 ) ( -112 -2272 -15 ) s_sr_m1a [ 0 -1 0 -32 ] [ 0 0 -1 0 ] 0 1 1
@@ -25934,7 +25936,7 @@
 // entity 69
 {
 "classname" "info_player_start"
-"origin" "2882 -698 572"
+"origin" "1426 -1914 44"
 "angle" "180"
 }
 // entity 70
@@ -31374,7 +31376,7 @@
 "origin" "992 -1692 436"
 "light" "250"
 "mangle" "0 270 0"
-"wait" "1"
+"wait" "2"
 "style" "1"
 }
 // entity 539
